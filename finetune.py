@@ -51,6 +51,11 @@ if args.datatype == '2015':
    from dataloader import KITTIloader2015 as ls
 elif args.datatype == '2012':
    from dataloader import KITTIloader2012 as ls
+elif args.datatype == 'apolloscape':
+    ## Add apolloscape dataset
+    from dataloader import apolloscapeloader as ls
+    pass
+
 
 all_left_img, all_right_img, all_left_disp, test_left_img, test_right_img, test_left_disp = ls.dataloader(args.datapath)
 
