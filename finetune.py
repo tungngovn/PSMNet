@@ -159,28 +159,27 @@ def main():
         total_test_loss = 0
         adjust_learning_rate(optimizer,epoch)
             
-                ## training ##
-            for batch_idx, (imgL_crop, imgR_crop, disp_crop_L) in enumerate(TrainImgLoader):
-                start_time = time.time() 
+        ## training ##
+        for batch_idx, (imgL_crop, imgR_crop, disp_crop_L) in enumerate(TrainImgLoader):
+            start_time = time.time() 
 
-                loss = train(imgL_crop,imgR_crop, disp_crop_L)
+            loss = train(imgL_crop,imgR_crop, disp_crop_L)
             print('Iter %d training loss = %.3f , time = %.2f' %(batch_idx, loss, time.time() - start_time))
             total_train_loss += loss
         print('epoch %d total training loss = %.3f' %(epoch, total_train_loss/len(TrainImgLoader)))
         
-                ## Test ##
+        ## Test ##
 
-            for batch_idx, (imgL, imgR, disp_L) in enumerate(TestImgLoader):
-                test_loss = test(imgL,imgR, disp_L)
-                print('Iter %d 3-px error in val = %.3f' %(batch_idx, test_loss*100))
-                total_test_loss += test_loss
-
+        for batch_idx, (imgL, imgR, disp_L) in enumerate(TestImgLoader):
+            test_loss = test(imgL,imgR, disp_L)
+            print('Iter %d 3-px error in val = %.3f' %(batch_idx, test_loss*100))
+            total_test_loss += test_loss
 
         print('epoch %d total 3-px error in val = %.3f' %(epoch, total_test_loss/len(TestImgLoader)*100))
         if total_test_loss/len(TestImgLoader)*100 > max_acc:
-        max_acc = total_test_loss/len(TestImgLoader)*100
-        max_epo = epoch
-        print('MAX epoch %d total test error = %.3f' %(max_epo, max_acc))
+            max_acc = total_test_loss/len(TestImgLoader)*100
+            max_epo = epoch
+            print('MAX epoch %d total test error = %.3f' %(max_epo, max_acc))
 
         #SAVE
         savefilename = args.savemodel+'finetune_'+str(epoch)+'.tar'
