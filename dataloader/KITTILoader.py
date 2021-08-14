@@ -6,7 +6,8 @@ import torchvision.transforms as transforms
 import random
 from PIL import Image, ImageOps
 import numpy as np
-import preprocess 
+# import preprocess 
+from dataloader import preprocess
 
 IMG_EXTENSIONS = [
     '.jpg', '.JPG', '.jpeg', '.JPEG',
