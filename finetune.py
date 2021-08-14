@@ -17,8 +17,8 @@ import numpy as np
 import time
 import math
 import copy
-from dataloader import KITTIloader2015 as ls
-from dataloader import KITTILoader as DA
+# from dataloader import KITTIloader2015 as ls
+# from dataloader import KITTILoader as DA
 
 from models import *
 
@@ -48,9 +48,9 @@ if args.cuda:
     torch.cuda.manual_seed(args.seed)
 
 if args.datatype == '2015':
-   from dataloader import KITTIloader2015 as ls
+    from dataloader import KITTIloader2015 as ls
 elif args.datatype == '2012':
-   from dataloader import KITTIloader2012 as ls
+    from dataloader import KITTIloader2012 as ls
 elif args.datatype == 'apolloscape':
     ## Add apolloscape dataset
     from dataloader import apolloscapeloader as ls
