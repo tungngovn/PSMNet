@@ -18,7 +18,7 @@ import time
 import math
 import copy
 # from dataloader import KITTIloader2015 as ls
-# from dataloader import KITTILoader as DA
+from dataloader import KITTILoader as DA
 
 from models import *
 
@@ -33,6 +33,8 @@ parser.add_argument('--datapath', default='/media/jiaren/ImageNet/data_scene_flo
                     help='datapath')
 parser.add_argument('--epochs', type=int, default=300,
                     help='number of epochs to train')
+parser.add_argument('--batch_size', type=int, default=12,
+                    help='batch size to train')
 parser.add_argument('--loadmodel', default='./trained/submission_model.tar',
                     help='load model')
 parser.add_argument('--savemodel', default='./',
@@ -61,7 +63,7 @@ all_left_img, all_right_img, all_left_disp, test_left_img, test_right_img, test_
 
 TrainImgLoader = torch.utils.data.DataLoader(
          DA.myImageFloder(all_left_img,all_right_img,all_left_disp, True), 
-         batch_size= 12, shuffle= True, num_workers= 8, drop_last=False)
+         batch_size= args.batch_size, shuffle= True, num_workers= args.batch_size, drop_last=False)
 
 TestImgLoader = torch.utils.data.DataLoader(
          DA.myImageFloder(test_left_img,test_right_img,test_left_disp, False), 
