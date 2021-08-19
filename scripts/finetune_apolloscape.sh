@@ -7,5 +7,5 @@ python finetune.py --maxdisp 192 \
                    --epochs 100 \
                    --batch_size 4 \
                    --loadmodel ./trained/pretrained_sceneflow.tar \
-                   --savemodel ./trained/
+                   --savemodel ./trained/ 2>&1 |tee ./logs/train_logs.txt
 

@@ -58,6 +58,7 @@ elif args.datatype == 'apolloscape':
     from dataloader import apolloscapeloader as ls
     pass
 
+lr = 0.001 ## Init lr
 
 all_left_img, all_right_img, all_left_disp, test_left_img, test_right_img, test_left_disp = ls.dataloader(args.datapath)
 
@@ -67,7 +68,7 @@ TrainImgLoader = torch.utils.data.DataLoader(
 
 TestImgLoader = torch.utils.data.DataLoader(
          DA.myImageFloder(test_left_img,test_right_img,test_left_disp, False), 
-         batch_size= 8, shuffle= False, num_workers= 4, drop_last=False)
+         batch_size= args.batch_size, shuffle= False, num_workers= 4, drop_last=False)
 
 if args.model == 'stackhourglass':
     model = stackhourglass(args.maxdisp)
@@ -119,6 +120,7 @@ def train(imgL,imgR,disp_L):
         optimizer.step()
 
         return loss.data[0]
+        # return loss.data
 
 def test(imgL,imgR,disp_true):
         model.eval()
@@ -142,10 +144,10 @@ def test(imgL,imgR,disp_true):
         return 1-(float(torch.sum(correct))/float(len(index[0])))
 
 def adjust_learning_rate(optimizer, epoch):
-    if epoch <= 200:
-       lr = 0.001
-    else:
-       lr = 0.0001
+    global lr 
+    if (epoch%15==0):
+        lr=lr*0.1
+
     print(lr)
     for param_group in optimizer.param_groups:
         param_group['lr'] = lr
