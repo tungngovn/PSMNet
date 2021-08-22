@@ -56,9 +56,10 @@ elif args.datatype == '2012':
 elif args.datatype == 'apolloscape':
     ## Add apolloscape dataset
     from dataloader import apolloscapeloader as ls
+    print("Added apolloscape dataset") ## Print to debug
     pass
 
-lr = 0.001 ## Init lr
+lr = 0.0001 ## Init lr
 
 all_left_img, all_right_img, all_left_disp, test_left_img, test_right_img, test_left_disp = ls.dataloader(args.datapath)
 
@@ -68,7 +69,7 @@ TrainImgLoader = torch.utils.data.DataLoader(
 
 TestImgLoader = torch.utils.data.DataLoader(
          DA.myImageFloder(test_left_img,test_right_img,test_left_disp, False), 
-         batch_size= args.batch_size, shuffle= False, num_workers= 4, drop_last=False)
+         batch_size= args.batch_size, shuffle= False, num_workers= args.batch_size, drop_last=False)
 
 if args.model == 'stackhourglass':
     model = stackhourglass(args.maxdisp)
@@ -119,13 +120,14 @@ def train(imgL,imgR,disp_L):
         loss.backward()
         optimizer.step()
 
-        return loss.data[0]
-        # return loss.data
+        # return loss.data[0]
+        return loss.data ## Edit for new pytorch version
 
 def test(imgL,imgR,disp_true):
         model.eval()
         imgL   = Variable(torch.FloatTensor(imgL))
-        imgR   = Variable(torch.FloatTensor(imgR))   
+        imgR   = Variable(torch.FloatTensor(imgR))
+        disp_true = Variable(torch.FloatTensor(disp_true)) ## Add to fix bug
         if args.cuda:
             imgL, imgR = imgL.cuda(), imgR.cuda()
 
@@ -134,20 +136,40 @@ def test(imgL,imgR,disp_true):
 
         pred_disp = output3.data.cpu()
 
-        #computing 3-px error#
+        ## Edit to compute 3-px error
         true_disp = copy.deepcopy(disp_true)
-        index = np.argwhere(true_disp>0)
-        disp_true[index[0][:], index[1][:], index[2][:]] = np.abs(true_disp[index[0][:], index[1][:], index[2][:]]-pred_disp[index[0][:], index[1][:], index[2][:]])
-        correct = (disp_true[index[0][:], index[1][:], index[2][:]] < 3)|(disp_true[index[0][:], index[1][:], index[2][:]] < true_disp[index[0][:], index[1][:], index[2][:]]*0.05)      
+        mask_0 = (true_disp>0)
+        td = true_disp.mul(mask_0)
+        pd = pred_disp.mul(mask_0)
+        d_px = torch.abs(td-pd)
+        correct = (d_px>3)
+        thres3 = torch.mean(correct.float())
+        # print('thres3: ', thres3)
         torch.cuda.empty_cache()
+        ## Done edit
+        return thres3
 
-        return 1-(float(torch.sum(correct))/float(len(index[0])))
+        # #computing 3-px error#
+        # true_disp = copy.deepcopy(disp_true)
+        # print("True disp shape: ", true_disp.shape) ## Print to debug
+        # print("Disp_true shape: ", disp_true.shape) ## Print to debug
+        # index = np.argwhere(true_disp>0)
+        # disp_true[index[0][:], index[1][:], index[2][:]] = np.abs(true_disp[index[0][:], index[1][:], index[2][:]]-pred_disp[index[0][:], index[1][:], index[2][:]])
+        # correct = (disp_true[index[0][:], index[1][:], index[2][:]] < 3)|(disp_true[index[0][:], index[1][:], index[2][:]] < true_disp[index[0][:], index[1][:], index[2][:]]*0.05)      
+        # torch.cuda.empty_cache()
+
+        # return 1-(float(torch.sum(correct))/float(len(index[0])))
 
 def adjust_learning_rate(optimizer, epoch):
-    global lr 
-    if (epoch%15==0):
-        lr=lr*0.1
-
+    global lr
+    # lr = 0.01
+    # lr_pow = -int(epoch/10)
+    # print(lr_pow)
+    # lr = lr*0.1*10**(lr_pow)
+    if (epoch%10==0):
+        lr = lr*0.1
+    # else:
+    #     lr = 0.0001
     print(lr)
     for param_group in optimizer.param_groups:
         param_group['lr'] = lr
@@ -158,20 +180,24 @@ def main():
     max_epo=0
     start_full_time = time.time()
 
-    for epoch in range(1, args.epochs+1):
+    for epoch in range(19, args.epochs+1):
         total_train_loss = 0
         total_test_loss = 0
         adjust_learning_rate(optimizer,epoch)
-            
+
+        ## Ignore training to debug test code
+        
         ## training ##
         for batch_idx, (imgL_crop, imgR_crop, disp_crop_L) in enumerate(TrainImgLoader):
             start_time = time.time() 
 
+            print("Training epoch: ", epoch)
             loss = train(imgL_crop,imgR_crop, disp_crop_L)
             print('Iter %d training loss = %.3f , time = %.2f' %(batch_idx, loss, time.time() - start_time))
             total_train_loss += loss
         print('epoch %d total training loss = %.3f' %(epoch, total_train_loss/len(TrainImgLoader)))
         
+
         ## Test ##
 
         for batch_idx, (imgL, imgR, disp_L) in enumerate(TestImgLoader):
