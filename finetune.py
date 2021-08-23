@@ -20,6 +20,8 @@ import copy
 # from dataloader import KITTIloader2015 as ls
 from dataloader import KITTILoader as DA
 
+from torch.utils.tensorboard import SummaryWriter ## Use tensorboard to plot training 
+
 from models import *
 
 parser = argparse.ArgumentParser(description='PSMNet')
@@ -89,6 +91,12 @@ if args.loadmodel is not None:
 print('Number of model parameters: {}'.format(sum([p.data.nelement() for p in model.parameters()])))
 
 optimizer = optim.Adam(model.parameters(), lr=0.1, betas=(0.9, 0.999))
+
+## Define checkpoints folder to use tensorboard
+checkpoint_dir = './checkpoints/PSMNet_1st'
+train_writer = SummaryWriter(checkpoint_dir)
+## End defining checkpoints folder
+
 
 def train(imgL,imgR,disp_L):
         model.train()
@@ -193,10 +201,11 @@ def main():
 
             print("Training epoch: ", epoch)
             loss = train(imgL_crop,imgR_crop, disp_crop_L)
+            train_writer.add_scalar('train_loss', loss, batch_idx) ## Plot iter train loss
             print('Iter %d training loss = %.3f , time = %.2f' %(batch_idx, loss, time.time() - start_time))
             total_train_loss += loss
         print('epoch %d total training loss = %.3f' %(epoch, total_train_loss/len(TrainImgLoader)))
-        
+        train_writer.add_scalar('Total_train_loss', total_train_loss/len(TrainImgLoader), epoch) ## Plot epoch train loss
 
         ## Test ##
 
@@ -206,6 +215,7 @@ def main():
             total_test_loss += test_loss
 
         print('epoch %d total 3-px error in val = %.3f' %(epoch, total_test_loss/len(TestImgLoader)*100))
+        train_writer.add_scalar('Total_3-px_error_in_val', total_test_loss/len(TestImgLoader)*100, epoch) ## Plot epoch train loss
         if total_test_loss/len(TestImgLoader)*100 > max_acc:
             max_acc = total_test_loss/len(TestImgLoader)*100
             max_epo = epoch
