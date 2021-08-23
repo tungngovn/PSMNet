@@ -1,0 +1,3314 @@
+Added apolloscape dataset
+Number of model parameters: 5224768
+0.0001
+Training epoch:  19
+Iter 0 training loss = 34.377 , time = 4.39
+Training epoch:  19
+Iter 1 training loss = 14.643 , time = 2.72
+Training epoch:  19
+Iter 2 training loss = 2.730 , time = 2.74
+Training epoch:  19
+Iter 3 training loss = 19.203 , time = 2.75
+Training epoch:  19
+Iter 4 training loss = 15.455 , time = 2.65
+Training epoch:  19
+Iter 5 training loss = 6.025 , time = 2.98
+Training epoch:  19
+Iter 6 training loss = 7.175 , time = 2.80
+Training epoch:  19
+Iter 7 training loss = 5.242 , time = 2.63
+Training epoch:  19
+Iter 8 training loss = 3.272 , time = 2.81
+Training epoch:  19
+Iter 9 training loss = 7.474 , time = 2.91
+Training epoch:  19
+Iter 10 training loss = 10.424 , time = 2.90
+Training epoch:  19
+Iter 11 training loss = 14.832 , time = 2.61
+Training epoch:  19
+Iter 12 training loss = 2.204 , time = 2.70
+Training epoch:  19
+Iter 13 training loss = 5.144 , time = 2.61
+Training epoch:  19
+Iter 14 training loss = 45.359 , time = 2.76
+Training epoch:  19
+Iter 15 training loss = 5.727 , time = 2.59
+Training epoch:  19
+Iter 16 training loss = 2.620 , time = 2.77
+Training epoch:  19
+Iter 17 training loss = 4.300 , time = 2.74
+Training epoch:  19
+Iter 18 training loss = 14.937 , time = 2.62
+Training epoch:  19
+Iter 19 training loss = 4.627 , time = 2.88
+Training epoch:  19
+Iter 20 training loss = 18.406 , time = 2.65
+Training epoch:  19
+Iter 21 training loss = 7.711 , time = 2.86
+Training epoch:  19
+Iter 22 training loss = 8.454 , time = 2.80
+Training epoch:  19
+Iter 23 training loss = 21.185 , time = 3.00
+Training epoch:  19
+Iter 24 training loss = 5.451 , time = 2.57
+Training epoch:  19
+Iter 25 training loss = 19.067 , time = 2.78
+Training epoch:  19
+Iter 26 training loss = 3.601 , time = 2.74
+Training epoch:  19
+Iter 27 training loss = 12.628 , time = 2.69
+Training epoch:  19
+Iter 28 training loss = 12.746 , time = 2.64
+Training epoch:  19
+Iter 29 training loss = 6.260 , time = 2.60
+Training epoch:  19
+Iter 30 training loss = 1.333 , time = 2.67
+Training epoch:  19
+Iter 31 training loss = 5.794 , time = 2.88
+Training epoch:  19
+Iter 32 training loss = 16.992 , time = 3.06
+Training epoch:  19
+Iter 33 training loss = 13.735 , time = 2.64
+Training epoch:  19
+Iter 34 training loss = 10.453 , time = 2.72
+Training epoch:  19
+Iter 35 training loss = 9.750 , time = 2.60
+Training epoch:  19
+Iter 36 training loss = 18.036 , time = 2.83
+Training epoch:  19
+Iter 37 training loss = 6.110 , time = 2.50
+Training epoch:  19
+Iter 38 training loss = 4.348 , time = 2.78
+Training epoch:  19
+Iter 39 training loss = 7.533 , time = 2.74
+Training epoch:  19
+Iter 40 training loss = 5.265 , time = 2.65
+Training epoch:  19
+Iter 41 training loss = 13.245 , time = 2.75
+Training epoch:  19
+Iter 42 training loss = 6.357 , time = 2.61
+Training epoch:  19
+Iter 43 training loss = 6.630 , time = 2.84
+Training epoch:  19
+Iter 44 training loss = 21.217 , time = 2.57
+Training epoch:  19
+Iter 45 training loss = 9.001 , time = 2.96
+Training epoch:  19
+Iter 46 training loss = 9.499 , time = 2.84
+Training epoch:  19
+Iter 47 training loss = 0.832 , time = 2.88
+Training epoch:  19
+Iter 48 training loss = 14.823 , time = 2.76
+Training epoch:  19
+Iter 49 training loss = 18.216 , time = 2.63
+Training epoch:  19
+Iter 50 training loss = 6.137 , time = 2.73
+Training epoch:  19
+Iter 51 training loss = 4.083 , time = 2.60
+Training epoch:  19
+Iter 52 training loss = 12.059 , time = 2.74
+Training epoch:  19
+Iter 53 training loss = 5.384 , time = 2.67
+Training epoch:  19
+Iter 54 training loss = 11.762 , time = 2.72
+Training epoch:  19
+Iter 55 training loss = 33.190 , time = 2.89
+Training epoch:  19
+Iter 56 training loss = 11.306 , time = 3.05
+Training epoch:  19
+Iter 57 training loss = 6.930 , time = 2.76
+Training epoch:  19
+Iter 58 training loss = 25.600 , time = 2.63
+Training epoch:  19
+Iter 59 training loss = 7.843 , time = 2.74
+Training epoch:  19
+Iter 60 training loss = 4.474 , time = 2.63
+Training epoch:  19
+Iter 61 training loss = 17.991 , time = 2.79
+Training epoch:  19
+Iter 62 training loss = 7.724 , time = 2.59
+Training epoch:  19
+Iter 63 training loss = 6.067 , time = 2.79
+Training epoch:  19
+Iter 64 training loss = 7.767 , time = 2.34
+Training epoch:  19
+Iter 65 training loss = 5.069 , time = 2.79
+Training epoch:  19
+Iter 66 training loss = 27.655 , time = 2.69
+Training epoch:  19
+Iter 67 training loss = 11.768 , time = 2.75
+Training epoch:  19
+Iter 68 training loss = 48.737 , time = 2.81
+Training epoch:  19
+Iter 69 training loss = 10.941 , time = 2.85
+Training epoch:  19
+Iter 70 training loss = 2.455 , time = 3.04
+Training epoch:  19
+Iter 71 training loss = 9.310 , time = 2.66
+Training epoch:  19
+Iter 72 training loss = 14.952 , time = 2.78
+Training epoch:  19
+Iter 73 training loss = 6.271 , time = 2.56
+Training epoch:  19
+Iter 74 training loss = 12.492 , time = 2.66
+Training epoch:  19
+Iter 75 training loss = 7.089 , time = 2.55
+Training epoch:  19
+Iter 76 training loss = 3.395 , time = 2.79
+Training epoch:  19
+Iter 77 training loss = 4.776 , time = 2.51
+Training epoch:  19
+Iter 78 training loss = 3.791 , time = 2.74
+Training epoch:  19
+Iter 79 training loss = 3.107 , time = 2.86
+Training epoch:  19
+Iter 80 training loss = 8.874 , time = 3.02
+Training epoch:  19
+Iter 81 training loss = 3.875 , time = 2.72
+Training epoch:  19
+Iter 82 training loss = 14.695 , time = 2.59
+Training epoch:  19
+Iter 83 training loss = 7.293 , time = 2.70
+Training epoch:  19
+Iter 84 training loss = 8.343 , time = 2.69
+Training epoch:  19
+Iter 85 training loss = 14.651 , time = 2.71
+Training epoch:  19
+Iter 86 training loss = 6.239 , time = 2.57
+Training epoch:  19
+Iter 87 training loss = 9.149 , time = 2.69
+Training epoch:  19
+Iter 88 training loss = 3.400 , time = 2.59
+Training epoch:  19
+Iter 89 training loss = 6.457 , time = 3.02
+Training epoch:  19
+Iter 90 training loss = 5.391 , time = 2.57
+Training epoch:  19
+Iter 91 training loss = 3.276 , time = 2.76
+Training epoch:  19
+Iter 92 training loss = 2.691 , time = 2.78
+Training epoch:  19
+Iter 93 training loss = 5.344 , time = 2.72
+Training epoch:  19
+Iter 94 training loss = 2.423 , time = 2.76
+Training epoch:  19
+Iter 95 training loss = 2.398 , time = 2.61
+Training epoch:  19
+Iter 96 training loss = 4.871 , time = 2.82
+Training epoch:  19
+Iter 97 training loss = 19.560 , time = 2.67
+Training epoch:  19
+Iter 98 training loss = 7.145 , time = 2.72
+Training epoch:  19
+Iter 99 training loss = 5.550 , time = 2.88
+Training epoch:  19
+Iter 100 training loss = 7.331 , time = 2.62
+Training epoch:  19
+Iter 101 training loss = 9.813 , time = 2.74
+Training epoch:  19
+Iter 102 training loss = 2.115 , time = 2.60
+Training epoch:  19
+Iter 103 training loss = 18.474 , time = 2.77
+Training epoch:  19
+Iter 104 training loss = 16.338 , time = 2.85
+Training epoch:  19
+Iter 105 training loss = 4.961 , time = 3.01
+Training epoch:  19
+Iter 106 training loss = 9.413 , time = 2.55
+Training epoch:  19
+Iter 107 training loss = 8.304 , time = 2.85
+Training epoch:  19
+Iter 108 training loss = 69.662 , time = 2.73
+Training epoch:  19
+Iter 109 training loss = 3.212 , time = 2.81
+Training epoch:  19
+Iter 110 training loss = 14.320 , time = 2.76
+Training epoch:  19
+Iter 111 training loss = 11.460 , time = 2.54
+Training epoch:  19
+Iter 112 training loss = 24.900 , time = 2.78
+Training epoch:  19
+Iter 113 training loss = 2.350 , time = 2.61
+Training epoch:  19
+Iter 114 training loss = 2.336 , time = 2.85
+Training epoch:  19
+Iter 115 training loss = 5.063 , time = 2.78
+Training epoch:  19
+Iter 116 training loss = 4.528 , time = 2.98
+Training epoch:  19
+Iter 117 training loss = 2.975 , time = 2.70
+Training epoch:  19
+Iter 118 training loss = 7.356 , time = 2.70
+Training epoch:  19
+Iter 119 training loss = 7.592 , time = 2.83
+Training epoch:  19
+Iter 120 training loss = 49.391 , time = 2.64
+Training epoch:  19
+Iter 121 training loss = 2.454 , time = 2.88
+Training epoch:  19
+Iter 122 training loss = 10.887 , time = 2.64
+Training epoch:  19
+Iter 123 training loss = 35.884 , time = 2.76
+Training epoch:  19
+Iter 124 training loss = 7.767 , time = 2.65
+Training epoch:  19
+Iter 125 training loss = 5.633 , time = 2.73
+Training epoch:  19
+Iter 126 training loss = 1.444 , time = 2.79
+Training epoch:  19
+Iter 127 training loss = 15.651 , time = 2.60
+Training epoch:  19
+Iter 128 training loss = 5.094 , time = 2.92
+Training epoch:  19
+Iter 129 training loss = 6.309 , time = 2.81
+Training epoch:  19
+Iter 130 training loss = 16.082 , time = 2.78
+Training epoch:  19
+Iter 131 training loss = 4.301 , time = 2.65
+Training epoch:  19
+Iter 132 training loss = 5.168 , time = 2.97
+Training epoch:  19
+Iter 133 training loss = 5.338 , time = 2.63
+Training epoch:  19
+Iter 134 training loss = 16.962 , time = 2.83
+Training epoch:  19
+Iter 135 training loss = 2.461 , time = 2.79
+Training epoch:  19
+Iter 136 training loss = 7.854 , time = 2.60
+Training epoch:  19
+Iter 137 training loss = 16.621 , time = 2.91
+Training epoch:  19
+Iter 138 training loss = 14.760 , time = 2.59
+Training epoch:  19
+Iter 139 training loss = 5.531 , time = 2.79
+Training epoch:  19
+Iter 140 training loss = 15.144 , time = 2.78
+Training epoch:  19
+Iter 141 training loss = 2.520 , time = 2.94
+Training epoch:  19
+Iter 142 training loss = 14.712 , time = 2.51
+Training epoch:  19
+Iter 143 training loss = 20.828 , time = 2.78
+Training epoch:  19
+Iter 144 training loss = 3.631 , time = 2.71
+Training epoch:  19
+Iter 145 training loss = 16.802 , time = 2.63
+Training epoch:  19
+Iter 146 training loss = 44.714 , time = 2.77
+Training epoch:  19
+Iter 147 training loss = 5.862 , time = 2.66
+Training epoch:  19
+Iter 148 training loss = 8.879 , time = 2.68
+Training epoch:  19
+Iter 149 training loss = 7.110 , time = 2.61
+Training epoch:  19
+Iter 150 training loss = 3.629 , time = 2.89
+Training epoch:  19
+Iter 151 training loss = 52.984 , time = 2.72
+Training epoch:  19
+Iter 152 training loss = 9.125 , time = 3.12
+Training epoch:  19
+Iter 153 training loss = 18.017 , time = 2.84
+Training epoch:  19
+Iter 154 training loss = 8.954 , time = 2.60
+Training epoch:  19
+Iter 155 training loss = 3.967 , time = 2.79
+Training epoch:  19
+Iter 156 training loss = 28.534 , time = 2.59
+Training epoch:  19
+Iter 157 training loss = 3.639 , time = 2.82
+Training epoch:  19
+Iter 158 training loss = 8.488 , time = 2.67
+Training epoch:  19
+Iter 159 training loss = 9.251 , time = 2.80
+Training epoch:  19
+Iter 160 training loss = 10.845 , time = 2.83
+Training epoch:  19
+Iter 161 training loss = 6.534 , time = 2.75
+Training epoch:  19
+Iter 162 training loss = 8.159 , time = 3.09
+Training epoch:  19
+Iter 163 training loss = 63.959 , time = 2.78
+Training epoch:  19
+Iter 164 training loss = 6.556 , time = 2.84
+Training epoch:  19
+Iter 165 training loss = 4.297 , time = 2.53
+Training epoch:  19
+Iter 166 training loss = 11.353 , time = 2.69
+Training epoch:  19
+Iter 167 training loss = 48.658 , time = 2.69
+Training epoch:  19
+Iter 168 training loss = 6.218 , time = 2.78
+Training epoch:  19
+Iter 169 training loss = 12.434 , time = 2.54
+Training epoch:  19
+Iter 170 training loss = 14.199 , time = 2.86
+Training epoch:  19
+Iter 171 training loss = 7.437 , time = 2.55
+Training epoch:  19
+Iter 172 training loss = 1.307 , time = 2.75
+Training epoch:  19
+Iter 173 training loss = 22.269 , time = 2.74
+Training epoch:  19
+Iter 174 training loss = 8.881 , time = 2.70
+Training epoch:  19
+Iter 175 training loss = 2.833 , time = 2.98
+Training epoch:  19
+Iter 176 training loss = 2.221 , time = 2.79
+Training epoch:  19
+Iter 177 training loss = 41.137 , time = 2.75
+Training epoch:  19
+Iter 178 training loss = 6.056 , time = 2.76
+Training epoch:  19
+Iter 179 training loss = 11.912 , time = 2.75
+Training epoch:  19
+Iter 180 training loss = 9.677 , time = 2.65
+Training epoch:  19
+Iter 181 training loss = 6.561 , time = 2.78
+Training epoch:  19
+Iter 182 training loss = 12.450 , time = 2.74
+Training epoch:  19
+Iter 183 training loss = 6.324 , time = 2.69
+Training epoch:  19
+Iter 184 training loss = 43.740 , time = 2.75
+Training epoch:  19
+Iter 185 training loss = 54.727 , time = 2.68
+Training epoch:  19
+Iter 186 training loss = 5.769 , time = 2.89
+Training epoch:  19
+Iter 187 training loss = 5.049 , time = 2.77
+Training epoch:  19
+Iter 188 training loss = 22.353 , time = 2.92
+Training epoch:  19
+Iter 189 training loss = 7.638 , time = 2.46
+Training epoch:  19
+Iter 190 training loss = 5.301 , time = 2.76
+Training epoch:  19
+Iter 191 training loss = 11.442 , time = 2.54
+Training epoch:  19
+Iter 192 training loss = 29.628 , time = 2.86
+Training epoch:  19
+Iter 193 training loss = 3.300 , time = 2.81
+Training epoch:  19
+Iter 194 training loss = 22.860 , time = 2.63
+Training epoch:  19
+Iter 195 training loss = 38.756 , time = 2.87
+Training epoch:  19
+Iter 196 training loss = 13.580 , time = 2.70
+Training epoch:  19
+Iter 197 training loss = 4.312 , time = 2.93
+Training epoch:  19
+Iter 198 training loss = 10.392 , time = 2.55
+Training epoch:  19
+Iter 199 training loss = 7.706 , time = 2.95
+Training epoch:  19
+Iter 200 training loss = 10.956 , time = 2.67
+Training epoch:  19
+Iter 201 training loss = 36.244 , time = 2.74
+Training epoch:  19
+Iter 202 training loss = 6.683 , time = 2.69
+Training epoch:  19
+Iter 203 training loss = 16.733 , time = 2.66
+Training epoch:  19
+Iter 204 training loss = 7.875 , time = 2.88
+Training epoch:  19
+Iter 205 training loss = 13.587 , time = 2.51
+Training epoch:  19
+Iter 206 training loss = 13.615 , time = 2.98
+Training epoch:  19
+Iter 207 training loss = 8.717 , time = 2.63
+Training epoch:  19
+Iter 208 training loss = 5.670 , time = 2.83
+Training epoch:  19
+Iter 209 training loss = 14.087 , time = 2.49
+Training epoch:  19
+Iter 210 training loss = 17.844 , time = 2.73
+Training epoch:  19
+Iter 211 training loss = 15.114 , time = 2.79
+Training epoch:  19
+Iter 212 training loss = 31.419 , time = 2.67
+Training epoch:  19
+Iter 213 training loss = 6.045 , time = 2.72
+Training epoch:  19
+Iter 214 training loss = 12.024 , time = 2.72
+Training epoch:  19
+Iter 215 training loss = 12.068 , time = 2.86
+Training epoch:  19
+Iter 216 training loss = 3.656 , time = 2.69
+Training epoch:  19
+Iter 217 training loss = 22.494 , time = 3.01
+Training epoch:  19
+Iter 218 training loss = 9.108 , time = 2.89
+Training epoch:  19
+Iter 219 training loss = 11.823 , time = 2.75
+Training epoch:  19
+Iter 220 training loss = 16.018 , time = 2.68
+Training epoch:  19
+Iter 221 training loss = 19.708 , time = 2.65
+Training epoch:  19
+Iter 222 training loss = 6.426 , time = 2.71
+Training epoch:  19
+Iter 223 training loss = 29.880 , time = 2.64
+Training epoch:  19
+Iter 224 training loss = 44.626 , time = 2.87
+Training epoch:  19
+Iter 225 training loss = 4.690 , time = 2.62
+Training epoch:  19
+Iter 226 training loss = 4.559 , time = 2.81
+Training epoch:  19
+Iter 227 training loss = 3.559 , time = 2.70
+Training epoch:  19
+Iter 228 training loss = 3.165 , time = 2.79
+Training epoch:  19
+Iter 229 training loss = 12.186 , time = 2.96
+Training epoch:  19
+Iter 230 training loss = 4.084 , time = 2.81
+Training epoch:  19
+Iter 231 training loss = 5.142 , time = 2.94
+Training epoch:  19
+Iter 232 training loss = 4.873 , time = 2.53
+Training epoch:  19
+Iter 233 training loss = 5.197 , time = 2.84
+Training epoch:  19
+Iter 234 training loss = 10.385 , time = 2.57
+Training epoch:  19
+Iter 235 training loss = 16.499 , time = 2.82
+Training epoch:  19
+Iter 236 training loss = 15.799 , time = 2.57
+Training epoch:  19
+Iter 237 training loss = 8.154 , time = 2.76
+Training epoch:  19
+Iter 238 training loss = 4.879 , time = 2.73
+Training epoch:  19
+Iter 239 training loss = 12.848 , time = 2.79
+Training epoch:  19
+Iter 240 training loss = 2.982 , time = 2.90
+Training epoch:  19
+Iter 241 training loss = 5.164 , time = 2.77
+Training epoch:  19
+Iter 242 training loss = 1.424 , time = 2.87
+Training epoch:  19
+Iter 243 training loss = 9.046 , time = 2.60
+Training epoch:  19
+Iter 244 training loss = 3.923 , time = 2.80
+Training epoch:  19
+Iter 245 training loss = 6.306 , time = 2.57
+Training epoch:  19
+Iter 246 training loss = 11.532 , time = 2.71
+Training epoch:  19
+Iter 247 training loss = 12.277 , time = 2.71
+Training epoch:  19
+Iter 248 training loss = 6.387 , time = 2.63
+Training epoch:  19
+Iter 249 training loss = 8.380 , time = 2.98
+Training epoch:  19
+Iter 250 training loss = 90.540 , time = 2.89
+Training epoch:  19
+Iter 251 training loss = 1.124 , time = 2.70
+Training epoch:  19
+Iter 252 training loss = 14.527 , time = 2.63
+Training epoch:  19
+Iter 253 training loss = 11.491 , time = 3.02
+Training epoch:  19
+Iter 254 training loss = 29.564 , time = 2.92
+Training epoch:  19
+Iter 255 training loss = 10.442 , time = 2.80
+Training epoch:  19
+Iter 256 training loss = 6.516 , time = 2.77
+Training epoch:  19
+Iter 257 training loss = 5.582 , time = 2.63
+Training epoch:  19
+Iter 258 training loss = 10.491 , time = 2.73
+Training epoch:  19
+Iter 259 training loss = 20.173 , time = 2.72
+Training epoch:  19
+Iter 260 training loss = 4.391 , time = 2.75
+Training epoch:  19
+Iter 261 training loss = 35.080 , time = 2.74
+Training epoch:  19
+Iter 262 training loss = 8.144 , time = 2.78
+Training epoch:  19
+Iter 263 training loss = 4.477 , time = 2.57
+Training epoch:  19
+Iter 264 training loss = 6.994 , time = 2.73
+Training epoch:  19
+Iter 265 training loss = 4.470 , time = 2.85
+Training epoch:  19
+Iter 266 training loss = 4.503 , time = 2.62
+Training epoch:  19
+Iter 267 training loss = 5.897 , time = 2.79
+Training epoch:  19
+Iter 268 training loss = 6.436 , time = 2.83
+Training epoch:  19
+Iter 269 training loss = 2.312 , time = 2.81
+Training epoch:  19
+Iter 270 training loss = 14.872 , time = 2.82
+Training epoch:  19
+Iter 271 training loss = 15.535 , time = 2.76
+Training epoch:  19
+Iter 272 training loss = 8.048 , time = 2.88
+Training epoch:  19
+Iter 273 training loss = 5.767 , time = 2.79
+Training epoch:  19
+Iter 274 training loss = 12.517 , time = 2.76
+Training epoch:  19
+Iter 275 training loss = 18.109 , time = 2.63
+Training epoch:  19
+Iter 276 training loss = 3.008 , time = 2.78
+Training epoch:  19
+Iter 277 training loss = 8.995 , time = 2.62
+Training epoch:  19
+Iter 278 training loss = 2.522 , time = 2.70
+Training epoch:  19
+Iter 279 training loss = 3.804 , time = 2.53
+Training epoch:  19
+Iter 280 training loss = 2.169 , time = 2.96
+Training epoch:  19
+Iter 281 training loss = 3.748 , time = 2.94
+Training epoch:  19
+Iter 282 training loss = 3.941 , time = 2.83
+Training epoch:  19
+Iter 283 training loss = 7.619 , time = 2.80
+Training epoch:  19
+Iter 284 training loss = 11.651 , time = 2.68
+Training epoch:  19
+Iter 285 training loss = 6.356 , time = 2.79
+Training epoch:  19
+Iter 286 training loss = 7.577 , time = 2.72
+Training epoch:  19
+Iter 287 training loss = 43.497 , time = 2.77
+Training epoch:  19
+Iter 288 training loss = 28.403 , time = 2.80
+Training epoch:  19
+Iter 289 training loss = 32.897 , time = 2.68
+Training epoch:  19
+Iter 290 training loss = 16.863 , time = 2.69
+Training epoch:  19
+Iter 291 training loss = 2.704 , time = 2.93
+Training epoch:  19
+Iter 292 training loss = 9.434 , time = 2.96
+Training epoch:  19
+Iter 293 training loss = 8.261 , time = 2.48
+Training epoch:  19
+Iter 294 training loss = 6.532 , time = 2.78
+Training epoch:  19
+Iter 295 training loss = 6.802 , time = 2.74
+Training epoch:  19
+Iter 296 training loss = 5.371 , time = 2.86
+Training epoch:  19
+Iter 297 training loss = 8.595 , time = 2.56
+Training epoch:  19
+Iter 298 training loss = 12.133 , time = 3.01
+Training epoch:  19
+Iter 299 training loss = 5.058 , time = 2.77
+Training epoch:  19
+Iter 300 training loss = 2.156 , time = 2.67
+Training epoch:  19
+Iter 301 training loss = 12.891 , time = 2.84
+Training epoch:  19
+Iter 302 training loss = 4.738 , time = 2.83
+Training epoch:  19
+Iter 303 training loss = 57.799 , time = 2.91
+Training epoch:  19
+Iter 304 training loss = 1.639 , time = 2.70
+Training epoch:  19
+Iter 305 training loss = 8.969 , time = 2.72
+Training epoch:  19
+Iter 306 training loss = 37.107 , time = 2.66
+Training epoch:  19
+Iter 307 training loss = 8.898 , time = 2.80
+Training epoch:  19
+Iter 308 training loss = 8.000 , time = 2.93
+Training epoch:  19
+Iter 309 training loss = 11.838 , time = 2.60
+Training epoch:  19
+Iter 310 training loss = 8.990 , time = 2.79
+Training epoch:  19
+Iter 311 training loss = 12.725 , time = 2.62
+Training epoch:  19
+Iter 312 training loss = 22.706 , time = 2.73
+Training epoch:  19
+Iter 313 training loss = 2.637 , time = 2.55
+Training epoch:  19
+Iter 314 training loss = 22.018 , time = 3.12
+Training epoch:  19
+Iter 315 training loss = 17.089 , time = 2.72
+Training epoch:  19
+Iter 316 training loss = 47.926 , time = 2.71
+Training epoch:  19
+Iter 317 training loss = 2.882 , time = 2.77
+Training epoch:  19
+Iter 318 training loss = 3.582 , time = 2.59
+Training epoch:  19
+Iter 319 training loss = 28.166 , time = 2.94
+Training epoch:  19
+Iter 320 training loss = 8.828 , time = 2.67
+Training epoch:  19
+Iter 321 training loss = 5.954 , time = 2.77
+Training epoch:  19
+Iter 322 training loss = 15.111 , time = 2.68
+Training epoch:  19
+Iter 323 training loss = 58.283 , time = 2.91
+Training epoch:  19
+Iter 324 training loss = 6.135 , time = 2.69
+Training epoch:  19
+Iter 325 training loss = 9.229 , time = 2.79
+Training epoch:  19
+Iter 326 training loss = 3.177 , time = 2.98
+Training epoch:  19
+Iter 327 training loss = 2.034 , time = 2.56
+Training epoch:  19
+Iter 328 training loss = 15.873 , time = 2.69
+Training epoch:  19
+Iter 329 training loss = 3.647 , time = 2.62
+Training epoch:  19
+Iter 330 training loss = 3.211 , time = 2.82
+Training epoch:  19
+Iter 331 training loss = 9.498 , time = 2.64
+Training epoch:  19
+Iter 332 training loss = 7.165 , time = 2.91
+Training epoch:  19
+Iter 333 training loss = 4.409 , time = 2.79
+Training epoch:  19
+Iter 334 training loss = 7.079 , time = 2.73
+Training epoch:  19
+Iter 335 training loss = 6.656 , time = 2.97
+Training epoch:  19
+Iter 336 training loss = 11.780 , time = 2.60
+Training epoch:  19
+Iter 337 training loss = 31.597 , time = 2.75
+Training epoch:  19
+Iter 338 training loss = 33.985 , time = 2.86
+Training epoch:  19
+Iter 339 training loss = 1.969 , time = 2.82
+Training epoch:  19
+Iter 340 training loss = 1.416 , time = 2.58
+Training epoch:  19
+Iter 341 training loss = 4.643 , time = 2.89
+Training epoch:  19
+Iter 342 training loss = 8.298 , time = 2.80
+Training epoch:  19
+Iter 343 training loss = 10.404 , time = 2.73
+Training epoch:  19
+Iter 344 training loss = 6.371 , time = 2.75
+Training epoch:  19
+Iter 345 training loss = 2.854 , time = 2.83
+Training epoch:  19
+Iter 346 training loss = 8.038 , time = 2.89
+Training epoch:  19
+Iter 347 training loss = 15.450 , time = 2.54
+Training epoch:  19
+Iter 348 training loss = 5.404 , time = 3.05
+Training epoch:  19
+Iter 349 training loss = 3.608 , time = 2.79
+Training epoch:  19
+Iter 350 training loss = 11.677 , time = 2.59
+Training epoch:  19
+Iter 351 training loss = 9.111 , time = 2.82
+Training epoch:  19
+Iter 352 training loss = 35.300 , time = 2.55
+Training epoch:  19
+Iter 353 training loss = 8.479 , time = 2.78
+Training epoch:  19
+Iter 354 training loss = 23.803 , time = 2.61
+Training epoch:  19
+Iter 355 training loss = 6.042 , time = 2.78
+Training epoch:  19
+Iter 356 training loss = 6.015 , time = 2.49
+Training epoch:  19
+Iter 357 training loss = 43.679 , time = 2.98
+Training epoch:  19
+Iter 358 training loss = 2.459 , time = 2.93
+Training epoch:  19
+Iter 359 training loss = 17.433 , time = 2.76
+Training epoch:  19
+Iter 360 training loss = 20.333 , time = 2.71
+Training epoch:  19
+Iter 361 training loss = 3.241 , time = 2.55
+Training epoch:  19
+Iter 362 training loss = 10.207 , time = 2.79
+Training epoch:  19
+Iter 363 training loss = 21.096 , time = 2.51
+Training epoch:  19
+Iter 364 training loss = 4.155 , time = 2.72
+Training epoch:  19
+Iter 365 training loss = 10.590 , time = 2.49
+Training epoch:  19
+Iter 366 training loss = 11.037 , time = 2.81
+Training epoch:  19
+Iter 367 training loss = 6.964 , time = 2.63
+Training epoch:  19
+Iter 368 training loss = 4.841 , time = 2.72
+Training epoch:  19
+Iter 369 training loss = 11.384 , time = 2.69
+Training epoch:  19
+Iter 370 training loss = 2.895 , time = 2.91
+Training epoch:  19
+Iter 371 training loss = 12.545 , time = 2.80
+Training epoch:  19
+Iter 372 training loss = 12.029 , time = 2.84
+Training epoch:  19
+Iter 373 training loss = 9.558 , time = 2.91
+Training epoch:  19
+Iter 374 training loss = 34.622 , time = 2.62
+Training epoch:  19
+Iter 375 training loss = 4.786 , time = 2.73
+Training epoch:  19
+Iter 376 training loss = 5.240 , time = 2.63
+Training epoch:  19
+Iter 377 training loss = 12.054 , time = 2.83
+Training epoch:  19
+Iter 378 training loss = 4.915 , time = 2.78
+Training epoch:  19
+Iter 379 training loss = 22.836 , time = 2.66
+Training epoch:  19
+Iter 380 training loss = 50.662 , time = 2.77
+Training epoch:  19
+Iter 381 training loss = 1.541 , time = 2.80
+Training epoch:  19
+Iter 382 training loss = 9.747 , time = 2.74
+Training epoch:  19
+Iter 383 training loss = 46.934 , time = 2.58
+Training epoch:  19
+Iter 384 training loss = 6.767 , time = 2.89
+Training epoch:  19
+Iter 385 training loss = 1.580 , time = 2.71
+Training epoch:  19
+Iter 386 training loss = 39.022 , time = 2.79
+Training epoch:  19
+Iter 387 training loss = 8.141 , time = 2.66
+Training epoch:  19
+Iter 388 training loss = 9.935 , time = 2.77
+Training epoch:  19
+Iter 389 training loss = 8.949 , time = 2.67
+Training epoch:  19
+Iter 390 training loss = 5.911 , time = 2.68
+Training epoch:  19
+Iter 391 training loss = 9.537 , time = 2.74
+Training epoch:  19
+Iter 392 training loss = 12.077 , time = 2.56
+Training epoch:  19
+Iter 393 training loss = 3.594 , time = 2.79
+Training epoch:  19
+Iter 394 training loss = 5.047 , time = 2.77
+Training epoch:  19
+Iter 395 training loss = 3.844 , time = 2.89
+Training epoch:  19
+Iter 396 training loss = 5.332 , time = 2.76
+Training epoch:  19
+Iter 397 training loss = 23.033 , time = 2.75
+Training epoch:  19
+Iter 398 training loss = 26.523 , time = 2.71
+Training epoch:  19
+Iter 399 training loss = 5.298 , time = 2.64
+Training epoch:  19
+Iter 400 training loss = 10.323 , time = 2.91
+Training epoch:  19
+Iter 401 training loss = 7.568 , time = 2.74
+Training epoch:  19
+Iter 402 training loss = 24.992 , time = 2.95
+Training epoch:  19
+Iter 403 training loss = 2.479 , time = 2.72
+Training epoch:  19
+Iter 404 training loss = 5.686 , time = 3.06
+Training epoch:  19
+Iter 405 training loss = 8.697 , time = 2.75
+Training epoch:  19
+Iter 406 training loss = 18.761 , time = 2.57
+Training epoch:  19
+Iter 407 training loss = 16.517 , time = 2.83
+Training epoch:  19
+Iter 408 training loss = 8.511 , time = 2.75
+Training epoch:  19
+Iter 409 training loss = 3.359 , time = 2.73
+Training epoch:  19
+Iter 410 training loss = 4.536 , time = 2.63
+Training epoch:  19
+Iter 411 training loss = 1.825 , time = 2.81
+Training epoch:  19
+Iter 412 training loss = 5.741 , time = 2.42
+Training epoch:  19
+Iter 413 training loss = 6.213 , time = 2.92
+Training epoch:  19
+Iter 414 training loss = 6.604 , time = 2.70
+Training epoch:  19
+Iter 415 training loss = 13.904 , time = 2.86
+Training epoch:  19
+Iter 416 training loss = 7.579 , time = 2.76
+Training epoch:  19
+Iter 417 training loss = 5.337 , time = 2.56
+Training epoch:  19
+Iter 418 training loss = 9.374 , time = 2.66
+Training epoch:  19
+Iter 419 training loss = 3.662 , time = 2.75
+Training epoch:  19
+Iter 420 training loss = 8.091 , time = 2.82
+Training epoch:  19
+Iter 421 training loss = 5.365 , time = 2.55
+Training epoch:  19
+Iter 422 training loss = 14.221 , time = 2.90
+Training epoch:  19
+Iter 423 training loss = 6.199 , time = 2.47
+Training epoch:  19
+Iter 424 training loss = 11.252 , time = 2.74
+Training epoch:  19
+Iter 425 training loss = 7.560 , time = 2.68
+Training epoch:  19
+Iter 426 training loss = 5.914 , time = 2.81
+Training epoch:  19
+Iter 427 training loss = 2.482 , time = 2.79
+Training epoch:  19
+Iter 428 training loss = 6.918 , time = 2.73
+Training epoch:  19
+Iter 429 training loss = 4.256 , time = 2.80
+Training epoch:  19
+Iter 430 training loss = 3.093 , time = 2.71
+Training epoch:  19
+Iter 431 training loss = 2.459 , time = 2.73
+Training epoch:  19
+Iter 432 training loss = 7.209 , time = 2.74
+Training epoch:  19
+Iter 433 training loss = 19.120 , time = 2.89
+Training epoch:  19
+Iter 434 training loss = 7.202 , time = 2.47
+Training epoch:  19
+Iter 435 training loss = 6.870 , time = 2.90
+Training epoch:  19
+Iter 436 training loss = 57.151 , time = 2.73
+Training epoch:  19
+Iter 437 training loss = 8.641 , time = 2.63
+Training epoch:  19
+Iter 438 training loss = 7.501 , time = 2.96
+Training epoch:  19
+Iter 439 training loss = 12.122 , time = 2.59
+Training epoch:  19
+Iter 440 training loss = 6.453 , time = 2.77
+Training epoch:  19
+Iter 441 training loss = 5.225 , time = 2.46
+Training epoch:  19
+Iter 442 training loss = 8.124 , time = 2.99
+Training epoch:  19
+Iter 443 training loss = 22.691 , time = 2.79
+Training epoch:  19
+Iter 444 training loss = 4.513 , time = 2.78
+Training epoch:  19
+Iter 445 training loss = 6.019 , time = 2.82
+Training epoch:  19
+Iter 446 training loss = 2.353 , time = 2.66
+Training epoch:  19
+Iter 447 training loss = 3.166 , time = 2.86
+Training epoch:  19
+Iter 448 training loss = 30.106 , time = 2.80
+Training epoch:  19
+Iter 449 training loss = 21.729 , time = 2.82
+Training epoch:  19
+Iter 450 training loss = 9.501 , time = 2.61
+Training epoch:  19
+Iter 451 training loss = 9.189 , time = 2.74
+Training epoch:  19
+Iter 452 training loss = 69.009 , time = 2.82
+Training epoch:  19
+Iter 453 training loss = 4.578 , time = 2.89
+Training epoch:  19
+Iter 454 training loss = 12.584 , time = 3.05
+Training epoch:  19
+Iter 455 training loss = 3.548 , time = 2.56
+Training epoch:  19
+Iter 456 training loss = 16.195 , time = 2.79
+Training epoch:  19
+Iter 457 training loss = 4.871 , time = 2.58
+Training epoch:  19
+Iter 458 training loss = 1.908 , time = 2.76
+Training epoch:  19
+Iter 459 training loss = 35.422 , time = 2.53
+Training epoch:  19
+Iter 460 training loss = 5.505 , time = 2.75
+Training epoch:  19
+Iter 461 training loss = 2.479 , time = 2.66
+Training epoch:  19
+Iter 462 training loss = 12.951 , time = 2.76
+Training epoch:  19
+Iter 463 training loss = 7.881 , time = 2.80
+Training epoch:  19
+Iter 464 training loss = 16.391 , time = 2.62
+Training epoch:  19
+Iter 465 training loss = 10.551 , time = 2.98
+Training epoch:  19
+Iter 466 training loss = 7.136 , time = 2.88
+Training epoch:  19
+Iter 467 training loss = 6.124 , time = 2.71
+Training epoch:  19
+Iter 468 training loss = 7.390 , time = 2.78
+Training epoch:  19
+Iter 469 training loss = 9.489 , time = 2.78
+Training epoch:  19
+Iter 470 training loss = 25.326 , time = 2.46
+Training epoch:  19
+Iter 471 training loss = 18.305 , time = 2.84
+Training epoch:  19
+Iter 472 training loss = 2.543 , time = 2.87
+Training epoch:  19
+Iter 473 training loss = 27.150 , time = 2.71
+Training epoch:  19
+Iter 474 training loss = 24.624 , time = 2.75
+Training epoch:  19
+Iter 475 training loss = 6.282 , time = 2.47
+Training epoch:  19
+Iter 476 training loss = 3.465 , time = 2.72
+Training epoch:  19
+Iter 477 training loss = 9.809 , time = 2.67
+Training epoch:  19
+Iter 478 training loss = 11.391 , time = 3.07
+Training epoch:  19
+Iter 479 training loss = 2.161 , time = 2.68
+Training epoch:  19
+Iter 480 training loss = 18.595 , time = 2.81
+Training epoch:  19
+Iter 481 training loss = 3.031 , time = 2.61
+Training epoch:  19
+Iter 482 training loss = 23.804 , time = 2.78
+Training epoch:  19
+Iter 483 training loss = 12.803 , time = 2.64
+Training epoch:  19
+Iter 484 training loss = 18.045 , time = 2.76
+Training epoch:  19
+Iter 485 training loss = 11.380 , time = 2.76
+Training epoch:  19
+Iter 486 training loss = 13.999 , time = 2.67
+Training epoch:  19
+Iter 487 training loss = 3.866 , time = 2.81
+Training epoch:  19
+Iter 488 training loss = 7.392 , time = 2.71
+Training epoch:  19
+Iter 489 training loss = 10.132 , time = 2.98
+Training epoch:  19
+Iter 490 training loss = 11.081 , time = 2.91
+Training epoch:  19
+Iter 491 training loss = 2.531 , time = 2.64
+Training epoch:  19
+Iter 492 training loss = 2.247 , time = 2.75
+Training epoch:  19
+Iter 493 training loss = 13.631 , time = 2.61
+Training epoch:  19
+Iter 494 training loss = 1.711 , time = 2.69
+Training epoch:  19
+Iter 495 training loss = 9.077 , time = 2.61
+Training epoch:  19
+Iter 496 training loss = 5.678 , time = 2.84
+Training epoch:  19
+Iter 497 training loss = 9.259 , time = 2.63
+Training epoch:  19
+Iter 498 training loss = 3.227 , time = 2.82
+Training epoch:  19
+Iter 499 training loss = 6.597 , time = 2.83
+Training epoch:  19
+Iter 500 training loss = 1.237 , time = 2.88
+Training epoch:  19
+Iter 501 training loss = 3.260 , time = 2.77
+Training epoch:  19
+Iter 502 training loss = 8.021 , time = 2.55
+Training epoch:  19
+Iter 503 training loss = 17.058 , time = 2.80
+Training epoch:  19
+Iter 504 training loss = 6.660 , time = 2.59
+Training epoch:  19
+Iter 505 training loss = 6.922 , time = 2.80
+Training epoch:  19
+Iter 506 training loss = 6.079 , time = 2.59
+Training epoch:  19
+Iter 507 training loss = 2.843 , time = 2.74
+Training epoch:  19
+Iter 508 training loss = 6.322 , time = 2.73
+Training epoch:  19
+Iter 509 training loss = 25.396 , time = 2.82
+Training epoch:  19
+Iter 510 training loss = 3.154 , time = 2.97
+Training epoch:  19
+Iter 511 training loss = 17.557 , time = 2.67
+Training epoch:  19
+Iter 512 training loss = 6.608 , time = 2.80
+Training epoch:  19
+Iter 513 training loss = 7.138 , time = 2.63
+Training epoch:  19
+Iter 514 training loss = 24.632 , time = 2.82
+Training epoch:  19
+Iter 515 training loss = 9.275 , time = 2.67
+Training epoch:  19
+Iter 516 training loss = 7.863 , time = 2.74
+Training epoch:  19
+Iter 517 training loss = 6.164 , time = 2.57
+Training epoch:  19
+Iter 518 training loss = 6.485 , time = 2.74
+Training epoch:  19
+Iter 519 training loss = 4.520 , time = 2.64
+Training epoch:  19
+Iter 520 training loss = 5.406 , time = 2.98
+Training epoch:  19
+Iter 521 training loss = 11.737 , time = 2.90
+Training epoch:  19
+Iter 522 training loss = 7.772 , time = 2.90
+Training epoch:  19
+Iter 523 training loss = 15.521 , time = 2.80
+Training epoch:  19
+Iter 524 training loss = 6.006 , time = 2.55
+Training epoch:  19
+Iter 525 training loss = 8.301 , time = 2.73
+Training epoch:  19
+Iter 526 training loss = 1.566 , time = 2.49
+Training epoch:  19
+Iter 527 training loss = 3.836 , time = 2.93
+Training epoch:  19
+Iter 528 training loss = 27.613 , time = 2.94
+Training epoch:  19
+Iter 529 training loss = 1.442 , time = 2.61
+Training epoch:  19
+Iter 530 training loss = 6.394 , time = 2.76
+Training epoch:  19
+Iter 531 training loss = 8.497 , time = 2.60
+Training epoch:  19
+Iter 532 training loss = 4.499 , time = 2.83
+Training epoch:  19
+Iter 533 training loss = 6.524 , time = 2.62
+Training epoch:  19
+Iter 534 training loss = 4.409 , time = 2.92
+Training epoch:  19
+Iter 535 training loss = 2.365 , time = 2.95
+Training epoch:  19
+Iter 536 training loss = 3.711 , time = 2.66
+Training epoch:  19
+Iter 537 training loss = 6.012 , time = 2.79
+Training epoch:  19
+Iter 538 training loss = 3.175 , time = 2.65
+Training epoch:  19
+Iter 539 training loss = 35.070 , time = 2.79
+Training epoch:  19
+Iter 540 training loss = 10.104 , time = 2.65
+Training epoch:  19
+Iter 541 training loss = 38.911 , time = 2.89
+Training epoch:  19
+Iter 542 training loss = 7.171 , time = 2.55
+Training epoch:  19
+Iter 543 training loss = 15.437 , time = 2.77
+Training epoch:  19
+Iter 544 training loss = 24.024 , time = 2.75
+Training epoch:  19
+Iter 545 training loss = 28.602 , time = 2.71
+Training epoch:  19
+Iter 546 training loss = 9.293 , time = 2.76
+Training epoch:  19
+Iter 547 training loss = 4.064 , time = 2.99
+Training epoch:  19
+Iter 548 training loss = 3.679 , time = 2.89
+Training epoch:  19
+Iter 549 training loss = 3.320 , time = 2.52
+Training epoch:  19
+Iter 550 training loss = 5.681 , time = 2.85
+Training epoch:  19
+Iter 551 training loss = 8.146 , time = 2.53
+Training epoch:  19
+Iter 552 training loss = 21.476 , time = 2.80
+Training epoch:  19
+Iter 553 training loss = 2.935 , time = 2.50
+Training epoch:  19
+Iter 554 training loss = 11.462 , time = 2.79
+Training epoch:  19
+Iter 555 training loss = 6.172 , time = 2.77
+Training epoch:  19
+Iter 556 training loss = 76.624 , time = 2.79
+Training epoch:  19
+Iter 557 training loss = 6.421 , time = 2.97
+Training epoch:  19
+Iter 558 training loss = 10.995 , time = 2.59
+Training epoch:  19
+Iter 559 training loss = 8.901 , time = 2.85
+Training epoch:  19
+Iter 560 training loss = 3.414 , time = 2.70
+Training epoch:  19
+Iter 561 training loss = 7.911 , time = 2.74
+Training epoch:  19
+Iter 562 training loss = 10.688 , time = 2.69
+Training epoch:  19
+Iter 563 training loss = 5.484 , time = 2.76
+Training epoch:  19
+Iter 564 training loss = 5.312 , time = 2.44
+Training epoch:  19
+Iter 565 training loss = 7.800 , time = 2.74
+Training epoch:  19
+Iter 566 training loss = 12.446 , time = 2.77
+Training epoch:  19
+Iter 567 training loss = 13.076 , time = 2.78
+Training epoch:  19
+Iter 568 training loss = 3.661 , time = 2.81
+Training epoch:  19
+Iter 569 training loss = 3.746 , time = 2.80
+Training epoch:  19
+Iter 570 training loss = 9.198 , time = 3.14
+Training epoch:  19
+Iter 571 training loss = 7.424 , time = 2.58
+Training epoch:  19
+Iter 572 training loss = 8.712 , time = 2.77
+Training epoch:  19
+Iter 573 training loss = 14.518 , time = 2.50
+Training epoch:  19
+Iter 574 training loss = 1.286 , time = 2.74
+Training epoch:  19
+Iter 575 training loss = 5.750 , time = 2.65
+Training epoch:  19
+Iter 576 training loss = 10.618 , time = 2.71
+Training epoch:  19
+Iter 577 training loss = 7.244 , time = 2.71
+Training epoch:  19
+Iter 578 training loss = 1.622 , time = 2.62
+Training epoch:  19
+Iter 579 training loss = 5.088 , time = 2.72
+Training epoch:  19
+Iter 580 training loss = 11.541 , time = 2.54
+Training epoch:  19
+Iter 581 training loss = 9.322 , time = 2.83
+Training epoch:  19
+Iter 582 training loss = 12.301 , time = 2.73
+Training epoch:  19
+Iter 583 training loss = 62.960 , time = 3.02
+Training epoch:  19
+Iter 584 training loss = 5.243 , time = 2.62
+Training epoch:  19
+Iter 585 training loss = 4.914 , time = 2.79
+Training epoch:  19
+Iter 586 training loss = 2.527 , time = 2.55
+Training epoch:  19
+Iter 587 training loss = 5.776 , time = 2.72
+Training epoch:  19
+Iter 588 training loss = 8.149 , time = 2.78
+Training epoch:  19
+Iter 589 training loss = 15.348 , time = 2.81
+Training epoch:  19
+Iter 590 training loss = 8.681 , time = 2.83
+Training epoch:  19
+Iter 591 training loss = 36.993 , time = 2.60
+Training epoch:  19
+Iter 592 training loss = 9.206 , time = 2.82
+Training epoch:  19
+Iter 593 training loss = 23.161 , time = 2.84
+Training epoch:  19
+Iter 594 training loss = 7.064 , time = 3.04
+Training epoch:  19
+Iter 595 training loss = 26.781 , time = 2.75
+Training epoch:  19
+Iter 596 training loss = 3.532 , time = 2.65
+Training epoch:  19
+Iter 597 training loss = 8.527 , time = 2.75
+Training epoch:  19
+Iter 598 training loss = 23.221 , time = 2.54
+Training epoch:  19
+Iter 599 training loss = 1.873 , time = 2.98
+Training epoch:  19
+Iter 600 training loss = 22.678 , time = 2.56
+Training epoch:  19
+Iter 601 training loss = 14.097 , time = 2.72
+Training epoch:  19
+Iter 602 training loss = 4.795 , time = 2.55
+Training epoch:  19
+Iter 603 training loss = 12.381 , time = 2.71
+Training epoch:  19
+Iter 604 training loss = 52.694 , time = 2.51
+Training epoch:  19
+Iter 605 training loss = 4.396 , time = 2.95
+Training epoch:  19
+Iter 606 training loss = 3.889 , time = 3.05
+Training epoch:  19
+Iter 607 training loss = 5.262 , time = 2.76
+Training epoch:  19
+Iter 608 training loss = 4.485 , time = 2.87
+Training epoch:  19
+Iter 609 training loss = 7.843 , time = 2.68
+Training epoch:  19
+Iter 610 training loss = 4.094 , time = 2.73
+Training epoch:  19
+Iter 611 training loss = 8.877 , time = 2.52
+Training epoch:  19
+Iter 612 training loss = 4.758 , time = 2.84
+Training epoch:  19
+Iter 613 training loss = 27.519 , time = 2.52
+Training epoch:  19
+Iter 614 training loss = 6.342 , time = 2.77
+Training epoch:  19
+Iter 615 training loss = 3.315 , time = 2.77
+Training epoch:  19
+Iter 616 training loss = 20.965 , time = 2.94
+Training epoch:  19
+Iter 617 training loss = 8.766 , time = 2.95
+Training epoch:  19
+Iter 618 training loss = 2.884 , time = 2.56
+Training epoch:  19
+Iter 619 training loss = 6.052 , time = 2.78
+Training epoch:  19
+Iter 620 training loss = 12.410 , time = 2.56
+Training epoch:  19
+Iter 621 training loss = 8.005 , time = 2.70
+Training epoch:  19
+Iter 622 training loss = 4.557 , time = 2.59
+Training epoch:  19
+Iter 623 training loss = 3.253 , time = 2.79
+Training epoch:  19
+Iter 624 training loss = 11.088 , time = 2.55
+Training epoch:  19
+Iter 625 training loss = 11.018 , time = 2.73
+Training epoch:  19
+Iter 626 training loss = 5.600 , time = 2.60
+Training epoch:  19
+Iter 627 training loss = 8.836 , time = 3.06
+Training epoch:  19
+Iter 628 training loss = 9.185 , time = 2.80
+Training epoch:  19
+Iter 629 training loss = 3.418 , time = 2.62
+Training epoch:  19
+Iter 630 training loss = 11.092 , time = 2.81
+Training epoch:  19
+Iter 631 training loss = 12.486 , time = 2.60
+Training epoch:  19
+Iter 632 training loss = 10.173 , time = 2.74
+Training epoch:  19
+Iter 633 training loss = 3.696 , time = 2.70
+Training epoch:  19
+Iter 634 training loss = 3.214 , time = 2.75
+Training epoch:  19
+Iter 635 training loss = 7.940 , time = 2.55
+Training epoch:  19
+Iter 636 training loss = 5.047 , time = 2.89
+Training epoch:  19
+Iter 637 training loss = 23.742 , time = 2.61
+Training epoch:  19
+Iter 638 training loss = 4.205 , time = 2.97
+Training epoch:  19
+Iter 639 training loss = 6.615 , time = 2.94
+Training epoch:  19
+Iter 640 training loss = 5.415 , time = 2.57
+Training epoch:  19
+Iter 641 training loss = 7.311 , time = 2.76
+Training epoch:  19
+Iter 642 training loss = 11.629 , time = 2.62
+Training epoch:  19
+Iter 643 training loss = 2.820 , time = 2.84
+Training epoch:  19
+Iter 644 training loss = 31.330 , time = 2.76
+Training epoch:  19
+Iter 645 training loss = 8.440 , time = 2.75
+Training epoch:  19
+Iter 646 training loss = 38.317 , time = 2.58
+Training epoch:  19
+Iter 647 training loss = 6.294 , time = 2.85
+Training epoch:  19
+Iter 648 training loss = 14.075 , time = 2.93
+Training epoch:  19
+Iter 649 training loss = 1.896 , time = 2.66
+Training epoch:  19
+Iter 650 training loss = 2.323 , time = 2.76
+Training epoch:  19
+Iter 651 training loss = 16.043 , time = 2.70
+Training epoch:  19
+Iter 652 training loss = 7.078 , time = 2.75
+Training epoch:  19
+Iter 653 training loss = 5.389 , time = 2.59
+Training epoch:  19
+Iter 654 training loss = 2.000 , time = 2.81
+Training epoch:  19
+Iter 655 training loss = 16.044 , time = 2.69
+Training epoch:  19
+Iter 656 training loss = 11.123 , time = 2.82
+Training epoch:  19
+Iter 657 training loss = 7.686 , time = 2.75
+Training epoch:  19
+Iter 658 training loss = 5.321 , time = 2.79
+Training epoch:  19
+Iter 659 training loss = 23.375 , time = 2.71
+Training epoch:  19
+Iter 660 training loss = 12.870 , time = 2.58
+Training epoch:  19
+Iter 661 training loss = 25.338 , time = 2.68
+Training epoch:  19
+Iter 662 training loss = 7.017 , time = 2.87
+Training epoch:  19
+Iter 663 training loss = 2.437 , time = 2.78
+Training epoch:  19
+Iter 664 training loss = 20.787 , time = 2.60
+Training epoch:  19
+Iter 665 training loss = 11.361 , time = 2.66
+Training epoch:  19
+Iter 666 training loss = 10.647 , time = 2.68
+Training epoch:  19
+Iter 667 training loss = 3.079 , time = 2.91
+Training epoch:  19
+Iter 668 training loss = 3.686 , time = 2.55
+Training epoch:  19
+Iter 669 training loss = 2.777 , time = 2.94
+Training epoch:  19
+Iter 670 training loss = 3.537 , time = 2.96
+Training epoch:  19
+Iter 671 training loss = 8.362 , time = 2.60
+Training epoch:  19
+Iter 672 training loss = 1.364 , time = 2.73
+Training epoch:  19
+Iter 673 training loss = 3.586 , time = 2.61
+Training epoch:  19
+Iter 674 training loss = 17.755 , time = 2.79
+Training epoch:  19
+Iter 675 training loss = 8.426 , time = 2.67
+Training epoch:  19
+Iter 676 training loss = 3.827 , time = 2.78
+Training epoch:  19
+Iter 677 training loss = 13.497 , time = 2.62
+Training epoch:  19
+Iter 678 training loss = 5.766 , time = 2.80
+Training epoch:  19
+Iter 679 training loss = 3.917 , time = 2.95
+Training epoch:  19
+Iter 680 training loss = 12.325 , time = 2.91
+Training epoch:  19
+Iter 681 training loss = 8.096 , time = 2.76
+Training epoch:  19
+Iter 682 training loss = 5.380 , time = 2.67
+Training epoch:  19
+Iter 683 training loss = 16.208 , time = 2.71
+Training epoch:  19
+Iter 684 training loss = 9.816 , time = 2.56
+Training epoch:  19
+Iter 685 training loss = 12.064 , time = 2.74
+Training epoch:  19
+Iter 686 training loss = 11.385 , time = 2.57
+Training epoch:  19
+Iter 687 training loss = 10.304 , time = 2.76
+Training epoch:  19
+Iter 688 training loss = 1.768 , time = 2.57
+Training epoch:  19
+Iter 689 training loss = 4.863 , time = 2.75
+Training epoch:  19
+Iter 690 training loss = 3.262 , time = 2.83
+Training epoch:  19
+Iter 691 training loss = 4.734 , time = 2.90
+Training epoch:  19
+Iter 692 training loss = 13.005 , time = 2.93
+Training epoch:  19
+Iter 693 training loss = 7.542 , time = 2.56
+Training epoch:  19
+Iter 694 training loss = 9.566 , time = 2.77
+Training epoch:  19
+Iter 695 training loss = 14.711 , time = 2.63
+Training epoch:  19
+Iter 696 training loss = 5.068 , time = 2.78
+Training epoch:  19
+Iter 697 training loss = 3.227 , time = 2.46
+Training epoch:  19
+Iter 698 training loss = 43.731 , time = 2.71
+Training epoch:  19
+Iter 699 training loss = 4.599 , time = 2.67
+Training epoch:  19
+Iter 700 training loss = 18.202 , time = 2.75
+Training epoch:  19
+Iter 701 training loss = 5.769 , time = 2.81
+Training epoch:  19
+Iter 702 training loss = 4.889 , time = 2.55
+Training epoch:  19
+Iter 703 training loss = 2.328 , time = 2.80
+Training epoch:  19
+Iter 704 training loss = 74.508 , time = 2.57
+Training epoch:  19
+Iter 705 training loss = 8.734 , time = 3.08
+Training epoch:  19
+Iter 706 training loss = 71.358 , time = 2.85
+Training epoch:  19
+Iter 707 training loss = 4.070 , time = 2.69
+Training epoch:  19
+Iter 708 training loss = 1.988 , time = 2.61
+Training epoch:  19
+Iter 709 training loss = 2.623 , time = 2.76
+Training epoch:  19
+Iter 710 training loss = 10.973 , time = 2.73
+Training epoch:  19
+Iter 711 training loss = 6.484 , time = 2.70
+Training epoch:  19
+Iter 712 training loss = 9.567 , time = 2.73
+Training epoch:  19
+Iter 713 training loss = 5.736 , time = 2.51
+Training epoch:  19
+Iter 714 training loss = 7.479 , time = 2.73
+Training epoch:  19
+Iter 715 training loss = 8.991 , time = 2.59
+Training epoch:  19
+Iter 716 training loss = 8.932 , time = 2.97
+Training epoch:  19
+Iter 717 training loss = 3.040 , time = 2.85
+Training epoch:  19
+Iter 718 training loss = 8.834 , time = 2.83
+Training epoch:  19
+Iter 719 training loss = 28.894 , time = 2.49
+Training epoch:  19
+Iter 720 training loss = 3.173 , time = 2.76
+Training epoch:  19
+Iter 721 training loss = 5.183 , time = 2.69
+Training epoch:  19
+Iter 722 training loss = 19.973 , time = 2.67
+Training epoch:  19
+Iter 723 training loss = 6.326 , time = 2.82
+Training epoch:  19
+Iter 724 training loss = 29.349 , time = 2.57
+Training epoch:  19
+Iter 725 training loss = 11.582 , time = 2.87
+Training epoch:  19
+Iter 726 training loss = 15.995 , time = 2.84
+Training epoch:  19
+Iter 727 training loss = 6.392 , time = 2.91
+Training epoch:  19
+Iter 728 training loss = 6.195 , time = 2.60
+Training epoch:  19
+Iter 729 training loss = 7.035 , time = 2.80
+Training epoch:  19
+Iter 730 training loss = 2.825 , time = 2.58
+Training epoch:  19
+Iter 731 training loss = 4.424 , time = 2.76
+Training epoch:  19
+Iter 732 training loss = 15.164 , time = 2.77
+Training epoch:  19
+Iter 733 training loss = 29.657 , time = 2.62
+Training epoch:  19
+Iter 734 training loss = 14.258 , time = 2.67
+Training epoch:  19
+Iter 735 training loss = 68.835 , time = 2.49
+Training epoch:  19
+Iter 736 training loss = 2.958 , time = 2.74
+Training epoch:  19
+Iter 737 training loss = 12.273 , time = 2.52
+Training epoch:  19
+Iter 738 training loss = 7.062 , time = 2.80
+Training epoch:  19
+Iter 739 training loss = 3.388 , time = 2.84
+Training epoch:  19
+Iter 740 training loss = 4.822 , time = 3.08
+Training epoch:  19
+Iter 741 training loss = 5.309 , time = 2.55
+Training epoch:  19
+Iter 742 training loss = 4.350 , time = 2.77
+Training epoch:  19
+Iter 743 training loss = 39.563 , time = 2.73
+Training epoch:  19
+Iter 744 training loss = 4.294 , time = 2.74
+Training epoch:  19
+Iter 745 training loss = 9.744 , time = 2.83
+Training epoch:  19
+Iter 746 training loss = 8.366 , time = 2.59
+Training epoch:  19
+Iter 747 training loss = 9.072 , time = 2.73
+Training epoch:  19
+Iter 748 training loss = 12.622 , time = 2.49
+Training epoch:  19
+Iter 749 training loss = 20.806 , time = 2.69
+Training epoch:  19
+Iter 750 training loss = 6.416 , time = 2.66
+Training epoch:  19
+Iter 751 training loss = 8.514 , time = 2.95
+Training epoch:  19
+Iter 752 training loss = 2.674 , time = 2.84
+Training epoch:  19
+Iter 753 training loss = 5.940 , time = 2.75
+Training epoch:  19
+Iter 754 training loss = 2.009 , time = 2.71
+Training epoch:  19
+Iter 755 training loss = 11.837 , time = 2.70
+Training epoch:  19
+Iter 756 training loss = 9.878 , time = 2.84
+Training epoch:  19
+Iter 757 training loss = 15.686 , time = 2.64
+Training epoch:  19
+Iter 758 training loss = 43.721 , time = 2.74
+Training epoch:  19
+Iter 759 training loss = 5.127 , time = 2.65
+Training epoch:  19
+Iter 760 training loss = 6.235 , time = 2.77
+Training epoch:  19
+Iter 761 training loss = 3.240 , time = 2.47
+Training epoch:  19
+Iter 762 training loss = 4.911 , time = 2.76
+Training epoch:  19
+Iter 763 training loss = 4.277 , time = 2.84
+Training epoch:  19
+Iter 764 training loss = 2.629 , time = 3.03
+Training epoch:  19
+Iter 765 training loss = 7.703 , time = 2.68
+Training epoch:  19
+Iter 766 training loss = 2.864 , time = 2.66
+Training epoch:  19
+Iter 767 training loss = 15.237 , time = 2.77
+Training epoch:  19
+Iter 768 training loss = 6.988 , time = 2.65
+Training epoch:  19
+Iter 769 training loss = 6.698 , time = 2.74
+Training epoch:  19
+Iter 770 training loss = 2.310 , time = 2.62
+Training epoch:  19
+Iter 771 training loss = 7.882 , time = 2.76
+Training epoch:  19
+Iter 772 training loss = 5.381 , time = 2.49
+Training epoch:  19
+Iter 773 training loss = 8.839 , time = 2.79
+Training epoch:  19
+Iter 774 training loss = 23.884 , time = 2.75
+Training epoch:  19
+Iter 775 training loss = 13.977 , time = 2.75
+Training epoch:  19
+Iter 776 training loss = 10.991 , time = 2.97
+Training epoch:  19
+Iter 777 training loss = 12.659 , time = 2.73
+Training epoch:  19
+Iter 778 training loss = 5.937 , time = 2.91
+Training epoch:  19
+Iter 779 training loss = 11.158 , time = 2.64
+Training epoch:  19
+Iter 780 training loss = 20.629 , time = 2.78
+Training epoch:  19
+Iter 781 training loss = 5.496 , time = 2.61
+Training epoch:  19
+Iter 782 training loss = 9.059 , time = 2.79
+Training epoch:  19
+Iter 783 training loss = 14.248 , time = 2.73
+Training epoch:  19
+Iter 784 training loss = 22.020 , time = 2.57
+Training epoch:  19
+Iter 785 training loss = 64.444 , time = 2.73
+Training epoch:  19
+Iter 786 training loss = 9.786 , time = 2.75
+Training epoch:  19
+Iter 787 training loss = 24.794 , time = 2.99
+Training epoch:  19
+Iter 788 training loss = 5.865 , time = 2.63
+Training epoch:  19
+Iter 789 training loss = 15.659 , time = 2.83
+Training epoch:  19
+Iter 790 training loss = 4.276 , time = 2.70
+Training epoch:  19
+Iter 791 training loss = 9.389 , time = 2.97
+Training epoch:  19
+Iter 792 training loss = 27.997 , time = 2.82
+Training epoch:  19
+Iter 793 training loss = 7.827 , time = 2.51
+Training epoch:  19
+Iter 794 training loss = 4.375 , time = 2.87
+Training epoch:  19
+Iter 795 training loss = 23.344 , time = 2.62
+Training epoch:  19
+Iter 796 training loss = 16.656 , time = 2.80
+Training epoch:  19
+Iter 797 training loss = 9.377 , time = 2.53
+Training epoch:  19
+Iter 798 training loss = 5.537 , time = 3.04
+Training epoch:  19
+Iter 799 training loss = 22.881 , time = 3.04
+Training epoch:  19
+Iter 800 training loss = 13.029 , time = 2.76
+Training epoch:  19
+Iter 801 training loss = 19.077 , time = 2.81
+Training epoch:  19
+Iter 802 training loss = 22.359 , time = 2.58
+Training epoch:  19
+Iter 803 training loss = 7.498 , time = 2.74
+Training epoch:  19
+Iter 804 training loss = 10.210 , time = 2.70
+Training epoch:  19
+Iter 805 training loss = 42.038 , time = 2.75
+Training epoch:  19
+Iter 806 training loss = 9.491 , time = 2.52
+Training epoch:  19
+Iter 807 training loss = 9.744 , time = 2.80
+Training epoch:  19
+Iter 808 training loss = 14.704 , time = 2.65
+Training epoch:  19
+Iter 809 training loss = 73.529 , time = 2.76
+Training epoch:  19
+Iter 810 training loss = 49.716 , time = 3.02
+Training epoch:  19
+Iter 811 training loss = 3.760 , time = 2.77
+Training epoch:  19
+Iter 812 training loss = 3.166 , time = 2.74
+Training epoch:  19
+Iter 813 training loss = 13.165 , time = 2.68
+Training epoch:  19
+Iter 814 training loss = 15.042 , time = 2.88
+Training epoch:  19
+Iter 815 training loss = 7.106 , time = 2.60
+Training epoch:  19
+Iter 816 training loss = 10.089 , time = 2.79
+Training epoch:  19
+Iter 817 training loss = 4.953 , time = 2.77
+Training epoch:  19
+Iter 818 training loss = 4.687 , time = 2.63
+Training epoch:  19
+Iter 819 training loss = 6.065 , time = 2.77
+Training epoch:  19
+Iter 820 training loss = 5.831 , time = 2.72
+Training epoch:  19
+Iter 821 training loss = 8.029 , time = 2.86
+Training epoch:  19
+Iter 822 training loss = 6.520 , time = 2.90
+Training epoch:  19
+Iter 823 training loss = 5.924 , time = 2.86
+Training epoch:  19
+Iter 824 training loss = 3.790 , time = 2.66
+Training epoch:  19
+Iter 825 training loss = 1.995 , time = 2.74
+Training epoch:  19
+Iter 826 training loss = 3.209 , time = 2.81
+Training epoch:  19
+Iter 827 training loss = 4.643 , time = 2.61
+Training epoch:  19
+Iter 828 training loss = 4.263 , time = 2.65
+Training epoch:  19
+Iter 829 training loss = 11.732 , time = 2.69
+Training epoch:  19
+Iter 830 training loss = 11.700 , time = 2.94
+Training epoch:  19
+Iter 831 training loss = 7.961 , time = 2.66
+Training epoch:  19
+Iter 832 training loss = 11.919 , time = 3.04
+Training epoch:  19
+Iter 833 training loss = 2.000 , time = 2.72
+Training epoch:  19
+Iter 834 training loss = 4.843 , time = 2.80
+Training epoch:  19
+Iter 835 training loss = 3.134 , time = 2.74
+Training epoch:  19
+Iter 836 training loss = 10.086 , time = 2.71
+Training epoch:  19
+Iter 837 training loss = 7.236 , time = 2.72
+Training epoch:  19
+Iter 838 training loss = 4.790 , time = 2.77
+Training epoch:  19
+Iter 839 training loss = 0.847 , time = 2.91
+Training epoch:  19
+Iter 840 training loss = 4.603 , time = 2.67
+Training epoch:  19
+Iter 841 training loss = 7.123 , time = 3.18
+Training epoch:  19
+Iter 842 training loss = 22.405 , time = 2.84
+Training epoch:  19
+Iter 843 training loss = 4.256 , time = 2.74
+Training epoch:  19
+Iter 844 training loss = 29.354 , time = 2.77
+Training epoch:  19
+Iter 845 training loss = 8.281 , time = 2.65
+Training epoch:  19
+Iter 846 training loss = 18.014 , time = 2.81
+Training epoch:  19
+Iter 847 training loss = 131.028 , time = 2.57
+Training epoch:  19
+Iter 848 training loss = 7.905 , time = 2.91
+Training epoch:  19
+Iter 849 training loss = 10.482 , time = 2.73
+Training epoch:  19
+Iter 850 training loss = 23.840 , time = 2.77
+Training epoch:  19
+Iter 851 training loss = 15.710 , time = 2.83
+Training epoch:  19
+Iter 852 training loss = 13.723 , time = 2.79
+Training epoch:  19
+Iter 853 training loss = 6.025 , time = 3.06
+Training epoch:  19
+Iter 854 training loss = 7.527 , time = 2.69
+Training epoch:  19
+Iter 855 training loss = 12.895 , time = 2.88
+Training epoch:  19
+Iter 856 training loss = 8.191 , time = 2.67
+Training epoch:  19
+Iter 857 training loss = 3.350 , time = 2.73
+Training epoch:  19
+Iter 858 training loss = 9.749 , time = 2.79
+Training epoch:  19
+Iter 859 training loss = 2.032 , time = 2.65
+Training epoch:  19
+Iter 860 training loss = 30.653 , time = 2.79
+Training epoch:  19
+Iter 861 training loss = 3.033 , time = 2.54
+Training epoch:  19
+Iter 862 training loss = 3.857 , time = 2.79
+Training epoch:  19
+Iter 863 training loss = 5.394 , time = 2.66
+Training epoch:  19
+Iter 864 training loss = 3.763 , time = 2.88
+Training epoch:  19
+Iter 865 training loss = 5.007 , time = 3.02
+Training epoch:  19
+Iter 866 training loss = 8.838 , time = 2.85
+Training epoch:  19
+Iter 867 training loss = 22.003 , time = 2.79
+Training epoch:  19
+Iter 868 training loss = 5.347 , time = 2.60
+Training epoch:  19
+Iter 869 training loss = 103.109 , time = 2.77
+Training epoch:  19
+Iter 870 training loss = 14.307 , time = 2.48
+Training epoch:  19
+Iter 871 training loss = 1.132 , time = 2.76
+Training epoch:  19
+Iter 872 training loss = 7.178 , time = 2.62
+Training epoch:  19
+Iter 873 training loss = 24.326 , time = 2.75
+Training epoch:  19
+Iter 874 training loss = 18.018 , time = 2.78
+Training epoch:  19
+Iter 875 training loss = 8.101 , time = 2.62
+Training epoch:  19
+Iter 876 training loss = 23.194 , time = 2.83
+Training epoch:  19
+Iter 877 training loss = 2.395 , time = 2.53
+Training epoch:  19
+Iter 878 training loss = 18.529 , time = 2.89
+Training epoch:  19
+Iter 879 training loss = 6.041 , time = 2.85
+Training epoch:  19
+Iter 880 training loss = 6.406 , time = 2.88
+Training epoch:  19
+Iter 881 training loss = 12.966 , time = 2.54
+Training epoch:  19
+Iter 882 training loss = 31.480 , time = 2.77
+Training epoch:  19
+Iter 883 training loss = 8.432 , time = 2.73
+Training epoch:  19
+Iter 884 training loss = 5.975 , time = 2.70
+Training epoch:  19
+Iter 885 training loss = 5.993 , time = 2.81
+Training epoch:  19
+Iter 886 training loss = 9.219 , time = 2.58
+Training epoch:  19
+Iter 887 training loss = 18.586 , time = 2.84
+Training epoch:  19
+Iter 888 training loss = 13.122 , time = 2.57
+Training epoch:  19
+Iter 889 training loss = 12.075 , time = 2.87
+Training epoch:  19
+Iter 890 training loss = 8.261 , time = 2.86
+Training epoch:  19
+Iter 891 training loss = 8.756 , time = 2.87
+Training epoch:  19
+Iter 892 training loss = 16.957 , time = 3.08
+Training epoch:  19
+Iter 893 training loss = 14.633 , time = 2.74
+Training epoch:  19
+Iter 894 training loss = 6.552 , time = 2.74
+Training epoch:  19
+Iter 895 training loss = 4.410 , time = 2.79
+Training epoch:  19
+Iter 896 training loss = 4.204 , time = 2.77
+Training epoch:  19
+Iter 897 training loss = 8.125 , time = 2.72
+Training epoch:  19
+Iter 898 training loss = 6.935 , time = 2.76
+Training epoch:  19
+Iter 899 training loss = 9.991 , time = 2.91
+Training epoch:  19
+Iter 900 training loss = 8.227 , time = 2.69
+Training epoch:  19
+Iter 901 training loss = 4.869 , time = 3.06
+Training epoch:  19
+Iter 902 training loss = 4.822 , time = 2.91
+Training epoch:  19
+Iter 903 training loss = 9.673 , time = 2.73
+Training epoch:  19
+Iter 904 training loss = 9.016 , time = 2.58
+Training epoch:  19
+Iter 905 training loss = 34.347 , time = 2.80
+Training epoch:  19
+Iter 906 training loss = 39.670 , time = 2.75
+Training epoch:  19
+Iter 907 training loss = 1.734 , time = 2.74
+Training epoch:  19
+Iter 908 training loss = 13.336 , time = 2.82
+Training epoch:  19
+Iter 909 training loss = 9.895 , time = 2.59
+Training epoch:  19
+Iter 910 training loss = 18.049 , time = 2.76
+Training epoch:  19
+Iter 911 training loss = 3.444 , time = 2.77
+Training epoch:  19
+Iter 912 training loss = 13.464 , time = 3.00
+Training epoch:  19
+Iter 913 training loss = 4.829 , time = 2.62
+Training epoch:  19
+Iter 914 training loss = 7.462 , time = 2.78
+Training epoch:  19
+Iter 915 training loss = 4.186 , time = 2.71
+Training epoch:  19
+Iter 916 training loss = 8.348 , time = 2.68
+Training epoch:  19
+Iter 917 training loss = 46.433 , time = 2.97
+Training epoch:  19
+Iter 918 training loss = 19.602 , time = 2.54
+Training epoch:  19
+Iter 919 training loss = 6.666 , time = 2.89
+Training epoch:  19
+Iter 920 training loss = 11.589 , time = 2.48
+Training epoch:  19
+Iter 921 training loss = 2.459 , time = 2.92
+Training epoch:  19
+Iter 922 training loss = 14.659 , time = 3.03
+Training epoch:  19
+Iter 923 training loss = 2.702 , time = 2.89
+Training epoch:  19
+Iter 924 training loss = 67.988 , time = 2.78
+Training epoch:  19
+Iter 925 training loss = 20.807 , time = 2.56
+Training epoch:  19
+Iter 926 training loss = 1.072 , time = 2.90
+Training epoch:  19
+Iter 927 training loss = 3.399 , time = 2.63
+Training epoch:  19
+Iter 928 training loss = 6.176 , time = 2.82
+Training epoch:  19
+Iter 929 training loss = 7.012 , time = 2.40
+Training epoch:  19
+Iter 930 training loss = 5.093 , time = 2.70
+Training epoch:  19
+Iter 931 training loss = 4.915 , time = 2.54
+Training epoch:  19
+Iter 932 training loss = 10.324 , time = 2.82
+Training epoch:  19
+Iter 933 training loss = 4.854 , time = 2.71
+Training epoch:  19
+Iter 934 training loss = 13.235 , time = 2.63
+Training epoch:  19
+Iter 935 training loss = 13.728 , time = 2.92
+Training epoch:  19
+Iter 936 training loss = 10.426 , time = 3.14
+Training epoch:  19
+Iter 937 training loss = 4.735 , time = 2.89
+Training epoch:  19
+Iter 938 training loss = 8.012 , time = 2.64
+Training epoch:  19
+Iter 939 training loss = 5.085 , time = 2.84
+Training epoch:  19
+Iter 940 training loss = 4.740 , time = 2.67
+Training epoch:  19
+Iter 941 training loss = 5.125 , time = 2.66
+Training epoch:  19
+Iter 942 training loss = 7.836 , time = 2.75
+Training epoch:  19
+Iter 943 training loss = 7.874 , time = 2.69
+Training epoch:  19
+Iter 944 training loss = 15.657 , time = 2.81
+Training epoch:  19
+Iter 945 training loss = 11.544 , time = 2.71
+Training epoch:  19
+Iter 946 training loss = 25.988 , time = 3.15
+Training epoch:  19
+Iter 947 training loss = 4.659 , time = 2.89
+Training epoch:  19
+Iter 948 training loss = 6.065 , time = 2.74
+Training epoch:  19
+Iter 949 training loss = 6.541 , time = 2.78
+Training epoch:  19
+Iter 950 training loss = 25.907 , time = 2.56
+Training epoch:  19
+Iter 951 training loss = 9.041 , time = 2.72
+Training epoch:  19
+Iter 952 training loss = 5.353 , time = 2.55
+Training epoch:  19
+Iter 953 training loss = 6.550 , time = 2.72
+Training epoch:  19
+Iter 954 training loss = 17.656 , time = 2.61
+Training epoch:  19
+Iter 955 training loss = 4.252 , time = 2.80
+Training epoch:  19
+Iter 956 training loss = 10.029 , time = 2.73
+Training epoch:  19
+Iter 957 training loss = 4.953 , time = 2.98
+Training epoch:  19
+Iter 958 training loss = 8.332 , time = 2.58
+Training epoch:  19
+Iter 959 training loss = 9.854 , time = 2.94
+Training epoch:  19
+Iter 960 training loss = 3.805 , time = 2.78
+Training epoch:  19
+Iter 961 training loss = 16.510 , time = 2.62
+Training epoch:  19
+Iter 962 training loss = 6.846 , time = 2.76
+Training epoch:  19
+Iter 963 training loss = 7.194 , time = 2.60
+Training epoch:  19
+Iter 964 training loss = 10.723 , time = 2.74
+Training epoch:  19
+Iter 965 training loss = 5.882 , time = 2.62
+Training epoch:  19
+Iter 966 training loss = 16.296 , time = 2.90
+Training epoch:  19
+Iter 967 training loss = 7.361 , time = 2.65
+Training epoch:  19
+Iter 968 training loss = 5.111 , time = 2.83
+Training epoch:  19
+Iter 969 training loss = 10.185 , time = 3.16
+Training epoch:  19
+Iter 970 training loss = 7.197 , time = 2.55
+Training epoch:  19
+Iter 971 training loss = 5.966 , time = 2.87
+Training epoch:  19
+Iter 972 training loss = 13.986 , time = 2.66
+Training epoch:  19
+Iter 973 training loss = 10.521 , time = 2.87
+Training epoch:  19
+Iter 974 training loss = 7.599 , time = 2.65
+Training epoch:  19
+Iter 975 training loss = 10.629 , time = 2.84
+Training epoch:  19
+Iter 976 training loss = 1.812 , time = 2.50
+Training epoch:  19
+Iter 977 training loss = 11.686 , time = 2.72
+Training epoch:  19
+Iter 978 training loss = 8.147 , time = 2.61
+Training epoch:  19
+Iter 979 training loss = 13.721 , time = 2.70
+Training epoch:  19
+Iter 980 training loss = 7.124 , time = 2.72
+Training epoch:  19
+Iter 981 training loss = 5.546 , time = 2.92
+Training epoch:  19
+Iter 982 training loss = 16.137 , time = 2.96
+Training epoch:  19
+Iter 983 training loss = 9.901 , time = 2.53
+Training epoch:  19
+Iter 984 training loss = 20.018 , time = 2.96
+Training epoch:  19
+Iter 985 training loss = 13.347 , time = 2.58
+Training epoch:  19
+Iter 986 training loss = 3.216 , time = 2.83
+Training epoch:  19
+Iter 987 training loss = 27.765 , time = 2.70
+Training epoch:  19
+Iter 988 training loss = 30.248 , time = 2.76
+Training epoch:  19
+Iter 989 training loss = 32.884 , time = 2.72
+Training epoch:  19
+Iter 990 training loss = 1.552 , time = 2.66
+Training epoch:  19
+Iter 991 training loss = 12.125 , time = 2.72
+Training epoch:  19
+Iter 992 training loss = 24.557 , time = 2.55
+Training epoch:  19
+Iter 993 training loss = 10.063 , time = 2.82
+Training epoch:  19
+Iter 994 training loss = 6.968 , time = 2.64
+Training epoch:  19
+Iter 995 training loss = 8.734 , time = 2.84
+Training epoch:  19
+Iter 996 training loss = 16.849 , time = 2.77
+Training epoch:  19
+Iter 997 training loss = 35.505 , time = 2.79
+Training epoch:  19
+Iter 998 training loss = 6.861 , time = 2.54
+Training epoch:  19
+Iter 999 training loss = 5.816 , time = 2.72
+Training epoch:  19
+Iter 1000 training loss = 8.486 , time = 2.60
+Training epoch:  19
+Iter 1001 training loss = 8.764 , time = 2.69
+Training epoch:  19
+Iter 1002 training loss = 17.794 , time = 2.76
+Training epoch:  19
+Iter 1003 training loss = 12.015 , time = 2.59
+Training epoch:  19
+Iter 1004 training loss = 2.115 , time = 2.78
+Training epoch:  19
+Iter 1005 training loss = 10.082 , time = 2.74
+Training epoch:  19
+Iter 1006 training loss = 2.434 , time = 2.95
+Training epoch:  19
+Iter 1007 training loss = 26.985 , time = 2.54
+Training epoch:  19
+Iter 1008 training loss = 16.136 , time = 2.81
+Training epoch:  19
+Iter 1009 training loss = 5.535 , time = 2.53
+Training epoch:  19
+Iter 1010 training loss = 5.685 , time = 2.93
+Training epoch:  19
+Iter 1011 training loss = 4.862 , time = 2.84
+Training epoch:  19
+Iter 1012 training loss = 3.570 , time = 2.69
+Training epoch:  19
+Iter 1013 training loss = 6.710 , time = 2.92
+Training epoch:  19
+Iter 1014 training loss = 5.702 , time = 2.59
+Training epoch:  19
+Iter 1015 training loss = 4.154 , time = 2.74
+Training epoch:  19
+Iter 1016 training loss = 4.224 , time = 2.64
+Training epoch:  19
+Iter 1017 training loss = 7.398 , time = 2.76
+Training epoch:  19
+Iter 1018 training loss = 6.177 , time = 2.68
+Training epoch:  19
+Iter 1019 training loss = 4.495 , time = 2.53
+Training epoch:  19
+Iter 1020 training loss = 8.585 , time = 2.96
+Training epoch:  19
+Iter 1021 training loss = 11.701 , time = 2.98
+Training epoch:  19
+Iter 1022 training loss = 30.030 , time = 2.79
+Training epoch:  19
+Iter 1023 training loss = 9.689 , time = 2.67
+Training epoch:  19
+Iter 1024 training loss = 4.180 , time = 2.82
+Training epoch:  19
+Iter 1025 training loss = 3.641 , time = 2.61
+Training epoch:  19
+Iter 1026 training loss = 2.833 , time = 2.82
+Training epoch:  19
+Iter 1027 training loss = 7.161 , time = 2.79
+Training epoch:  19
+Iter 1028 training loss = 5.165 , time = 2.63
+Training epoch:  19
+Iter 1029 training loss = 9.658 , time = 2.80
+Training epoch:  19
+Iter 1030 training loss = 16.471 , time = 2.80
+Training epoch:  19
+Iter 1031 training loss = 3.568 , time = 2.98
+Training epoch:  19
+Iter 1032 training loss = 5.018 , time = 2.78
+Training epoch:  19
+Iter 1033 training loss = 7.694 , time = 3.03
+Training epoch:  19
+Iter 1034 training loss = 5.084 , time = 2.72
+Training epoch:  19
+Iter 1035 training loss = 3.211 , time = 2.63
+Training epoch:  19
+Iter 1036 training loss = 3.766 , time = 2.77
+Training epoch:  19
+Iter 1037 training loss = 12.510 , time = 2.69
+Training epoch:  19
+Iter 1038 training loss = 6.213 , time = 2.82
+Training epoch:  19
+Iter 1039 training loss = 78.615 , time = 2.48
+Training epoch:  19
+Iter 1040 training loss = 6.029 , time = 2.70
+Training epoch:  19
+Iter 1041 training loss = 9.278 , time = 2.54
+Training epoch:  19
+Iter 1042 training loss = 26.800 , time = 2.78
+Training epoch:  19
+Iter 1043 training loss = 8.717 , time = 2.74
+Training epoch:  19
+Iter 1044 training loss = 16.704 , time = 2.83
+Training epoch:  19
+Iter 1045 training loss = 6.124 , time = 2.98
+Training epoch:  19
+Iter 1046 training loss = 5.192 , time = 2.91
+Training epoch:  19
+Iter 1047 training loss = 9.749 , time = 2.75
+Training epoch:  19
+Iter 1048 training loss = 11.800 , time = 2.57
+Training epoch:  19
+Iter 1049 training loss = 6.374 , time = 2.86
+Training epoch:  19
+Iter 1050 training loss = 24.863 , time = 2.66
+Training epoch:  19
+Iter 1051 training loss = 1.446 , time = 2.77
+Training epoch:  19
+Iter 1052 training loss = 3.988 , time = 2.69
+Training epoch:  19
+Iter 1053 training loss = 37.075 , time = 2.60
+Training epoch:  19
+Iter 1054 training loss = 13.872 , time = 2.81
+Training epoch:  19
+Iter 1055 training loss = 7.476 , time = 2.70
+Training epoch:  19
+Iter 1056 training loss = 13.678 , time = 2.79
+Training epoch:  19
+Iter 1057 training loss = 13.942 , time = 2.67
+Training epoch:  19
+Iter 1058 training loss = 7.080 , time = 3.06
+Training epoch:  19
+Iter 1059 training loss = 12.490 , time = 2.59
+Training epoch:  19
+Iter 1060 training loss = 13.003 , time = 2.74
+Training epoch:  19
+Iter 1061 training loss = 13.646 , time = 2.69
+Training epoch:  19
+Iter 1062 training loss = 7.076 , time = 2.72
+Training epoch:  19
+Iter 1063 training loss = 10.340 , time = 2.76
+Training epoch:  19
+Iter 1064 training loss = 32.157 , time = 2.62
+Training epoch:  19
+Iter 1065 training loss = 2.471 , time = 2.77
+Training epoch:  19
+Iter 1066 training loss = 13.946 , time = 2.62
+Training epoch:  19
+Iter 1067 training loss = 7.854 , time = 2.85
+Training epoch:  19
+Iter 1068 training loss = 102.963 , time = 2.74
+Training epoch:  19
+Iter 1069 training loss = 8.481 , time = 3.05
+Training epoch:  19
+Iter 1070 training loss = 12.480 , time = 2.73
+Training epoch:  19
+Iter 1071 training loss = 7.772 , time = 2.75
+Training epoch:  19
+Iter 1072 training loss = 15.264 , time = 2.68
+Training epoch:  19
+Iter 1073 training loss = 13.792 , time = 2.56
+Training epoch:  19
+Iter 1074 training loss = 6.087 , time = 2.78
+Training epoch:  19
+Iter 1075 training loss = 5.671 , time = 2.64
+Training epoch:  19
+Iter 1076 training loss = 5.061 , time = 2.74
+Training epoch:  19
+Iter 1077 training loss = 10.176 , time = 2.75
+Training epoch:  19
+Iter 1078 training loss = 51.633 , time = 2.96
+Training epoch:  19
+Iter 1079 training loss = 6.376 , time = 2.75
+Training epoch:  19
+Iter 1080 training loss = 3.486 , time = 2.96
+Training epoch:  19
+Iter 1081 training loss = 4.302 , time = 2.81
+Training epoch:  19
+Iter 1082 training loss = 10.034 , time = 2.66
+Training epoch:  19
+Iter 1083 training loss = 4.332 , time = 2.67
+Training epoch:  19
+Iter 1084 training loss = 9.843 , time = 2.59
+Training epoch:  19
+Iter 1085 training loss = 6.689 , time = 2.72
+Training epoch:  19
+Iter 1086 training loss = 15.525 , time = 2.62
+Training epoch:  19
+Iter 1087 training loss = 18.020 , time = 2.80
+Training epoch:  19
+Iter 1088 training loss = 3.605 , time = 2.56
+Training epoch:  19
+Iter 1089 training loss = 11.684 , time = 2.82
+Training epoch:  19
+Iter 1090 training loss = 22.540 , time = 2.67
+Training epoch:  19
+Iter 1091 training loss = 16.016 , time = 2.58
+Training epoch:  19
+Iter 1092 training loss = 42.292 , time = 3.08
+Training epoch:  19
+Iter 1093 training loss = 3.361 , time = 2.81
+Training epoch:  19
+Iter 1094 training loss = 6.641 , time = 2.95
+Training epoch:  19
+Iter 1095 training loss = 13.952 , time = 2.60
+Training epoch:  19
+Iter 1096 training loss = 13.121 , time = 2.80
+Training epoch:  19
+Iter 1097 training loss = 4.038 , time = 2.55
+Training epoch:  19
+Iter 1098 training loss = 20.976 , time = 2.79
+Training epoch:  19
+Iter 1099 training loss = 8.651 , time = 2.78
+Training epoch:  19
+Iter 1100 training loss = 45.404 , time = 2.56
+Training epoch:  19
+Iter 1101 training loss = 15.699 , time = 2.74
+Training epoch:  19
+Iter 1102 training loss = 25.149 , time = 2.54
+Training epoch:  19
+Iter 1103 training loss = 26.198 , time = 2.76
+Training epoch:  19
+Iter 1104 training loss = 7.449 , time = 2.53
+Training epoch:  19
+Iter 1105 training loss = 9.640 , time = 3.06
+Training epoch:  19
+Iter 1106 training loss = 17.312 , time = 2.97
+Training epoch:  19
+Iter 1107 training loss = 17.986 , time = 2.75
+Training epoch:  19
+Iter 1108 training loss = 5.967 , time = 2.54
+Training epoch:  19
+Iter 1109 training loss = 9.585 , time = 2.78
+Training epoch:  19
+Iter 1110 training loss = 4.986 , time = 2.79
+Training epoch:  19
+Iter 1111 training loss = 5.823 , time = 2.57
+Training epoch:  19
+Iter 1112 training loss = 14.353 , time = 2.72
+Training epoch:  19
+Iter 1113 training loss = 52.386 , time = 2.61
+Training epoch:  19
+Iter 1114 training loss = 21.599 , time = 2.81
+Training epoch:  19
+Iter 1115 training loss = 3.639 , time = 2.64
+Training epoch:  19
+Iter 1116 training loss = 1.352 , time = 2.75
+Training epoch:  19
+Iter 1117 training loss = 13.526 , time = 2.60
+Training epoch:  19
+Iter 1118 training loss = 6.944 , time = 3.16
+Training epoch:  19
+Iter 1119 training loss = 21.230 , time = 2.80
+Training epoch:  19
+Iter 1120 training loss = 9.252 , time = 2.71
+Training epoch:  19
+Iter 1121 training loss = 10.713 , time = 2.69
+Training epoch:  19
+Iter 1122 training loss = 56.698 , time = 2.58
+Training epoch:  19
+Iter 1123 training loss = 53.703 , time = 2.72
+Training epoch:  19
+Iter 1124 training loss = 9.021 , time = 2.55
+Training epoch:  19
+Iter 1125 training loss = 11.111 , time = 2.78
+Training epoch:  19
+Iter 1126 training loss = 2.261 , time = 2.58
+Training epoch:  19
+Iter 1127 training loss = 9.635 , time = 2.82
+Training epoch:  19
+Iter 1128 training loss = 9.868 , time = 3.14
+Training epoch:  19
+Iter 1129 training loss = 17.990 , time = 3.00
+Training epoch:  19
+Iter 1130 training loss = 5.848 , time = 2.98
+Training epoch:  19
+Iter 1131 training loss = 23.250 , time = 2.70
+Training epoch:  19
+Iter 1132 training loss = 37.224 , time = 2.76
+Training epoch:  19
+Iter 1133 training loss = 3.424 , time = 2.74
+Training epoch:  19
+Iter 1134 training loss = 3.820 , time = 2.84
+Training epoch:  19
+Iter 1135 training loss = 8.932 , time = 2.76
+Training epoch:  19
+Iter 1136 training loss = 3.524 , time = 2.57
+Training epoch:  19
+Iter 1137 training loss = 10.121 , time = 2.77
+Training epoch:  19
+Iter 1138 training loss = 24.389 , time = 2.98
+Training epoch:  19
+Iter 1139 training loss = 14.743 , time = 3.06
+Training epoch:  19
+Iter 1140 training loss = 9.825 , time = 2.68
+Training epoch:  19
+Iter 1141 training loss = 16.082 , time = 2.77
+Training epoch:  19
+Iter 1142 training loss = 22.795 , time = 2.91
+Training epoch:  19
+Iter 1143 training loss = 10.100 , time = 2.63
+Training epoch:  19
+Iter 1144 training loss = 31.063 , time = 2.76
+Training epoch:  19
+Iter 1145 training loss = 3.197 , time = 2.62
+Training epoch:  19
+Iter 1146 training loss = 3.398 , time = 2.91
+Training epoch:  19
+Iter 1147 training loss = 6.951 , time = 2.71
+Training epoch:  19
+Iter 1148 training loss = 3.038 , time = 2.71
+Training epoch:  19
+Iter 1149 training loss = 19.441 , time = 2.48
+Training epoch:  19
+Iter 1150 training loss = 58.501 , time = 2.80
+Training epoch:  19
+Iter 1151 training loss = 4.131 , time = 2.95
+Training epoch:  19
+Iter 1152 training loss = 5.801 , time = 2.56
+Training epoch:  19
+Iter 1153 training loss = 12.536 , time = 2.71
+Training epoch:  19
+Iter 1154 training loss = 13.199 , time = 2.74
+Training epoch:  19
+Iter 1155 training loss = 18.144 , time = 2.72
+Training epoch:  19
+Iter 1156 training loss = 17.963 , time = 2.60
+Training epoch:  19
+Iter 1157 training loss = 5.305 , time = 2.95
+Training epoch:  19
+Iter 1158 training loss = 13.497 , time = 2.58
+Training epoch:  19
+Iter 1159 training loss = 4.761 , time = 2.80
+Training epoch:  19
+Iter 1160 training loss = 4.182 , time = 2.73
+Training epoch:  19
+Iter 1161 training loss = 6.656 , time = 2.87
+Training epoch:  19
+Iter 1162 training loss = 7.016 , time = 2.82
+Training epoch:  19
+Iter 1163 training loss = 4.633 , time = 2.61
+Training epoch:  19
+Iter 1164 training loss = 11.581 , time = 2.90
+Training epoch:  19
+Iter 1165 training loss = 8.665 , time = 2.62
+Training epoch:  19
+Iter 1166 training loss = 12.278 , time = 2.97
+Training epoch:  19
+Iter 1167 training loss = 8.899 , time = 2.52
+Training epoch:  19
+Iter 1168 training loss = 15.382 , time = 2.87
+Training epoch:  19
+Iter 1169 training loss = 4.746 , time = 2.75
+Training epoch:  19
+Iter 1170 training loss = 4.852 , time = 2.63
+Training epoch:  19
+Iter 1171 training loss = 4.134 , time = 2.82
+Training epoch:  19
+Iter 1172 training loss = 9.052 , time = 2.57
+Training epoch:  19
+Iter 1173 training loss = 4.185 , time = 2.62
+Training epoch:  19
+Iter 1174 training loss = 6.341 , time = 2.51
+Training epoch:  19
+Iter 1175 training loss = 7.163 , time = 2.90
+Training epoch:  19
+Iter 1176 training loss = 10.085 , time = 2.78
+Training epoch:  19
+Iter 1177 training loss = 52.841 , time = 2.81
+Training epoch:  19
+Iter 1178 training loss = 3.629 , time = 2.66
+Training epoch:  19
+Iter 1179 training loss = 8.525 , time = 2.73
+Training epoch:  19
+Iter 1180 training loss = 14.968 , time = 2.79
+Training epoch:  19
+Iter 1181 training loss = 21.003 , time = 2.59
+Training epoch:  19
+Iter 1182 training loss = 15.315 , time = 2.91
+Training epoch:  19
+Iter 1183 training loss = 30.099 , time = 2.53
+Training epoch:  19
+Iter 1184 training loss = 8.908 , time = 2.78
+Training epoch:  19
+Iter 1185 training loss = 35.249 , time = 2.59
+Training epoch:  19
+Iter 1186 training loss = 9.471 , time = 2.72
+Training epoch:  19
+Iter 1187 training loss = 20.630 , time = 2.57
+Training epoch:  19
+Iter 1188 training loss = 34.695 , time = 2.97
+Training epoch:  19
+Iter 1189 training loss = 6.981 , time = 3.07
+Training epoch:  19
+Iter 1190 training loss = 12.996 , time = 2.88
+Training epoch:  19
+Iter 1191 training loss = 8.631 , time = 2.81
+Training epoch:  19
+Iter 1192 training loss = 6.598 , time = 2.53
+Training epoch:  19
+Iter 1193 training loss = 27.775 , time = 2.86
+Training epoch:  19
+Iter 1194 training loss = 13.408 , time = 2.48
+Training epoch:  19
+Iter 1195 training loss = 34.977 , time = 2.87
+Training epoch:  19
+Iter 1196 training loss = 6.667 , time = 2.54
+Training epoch:  19
+Iter 1197 training loss = 6.657 , time = 2.71
+Training epoch:  19
+Iter 1198 training loss = 10.856 , time = 2.70
+Training epoch:  19
+Iter 1199 training loss = 4.816 , time = 2.66
+Training epoch:  19
+Iter 1200 training loss = 6.965 , time = 2.85
+Training epoch:  19
+Iter 1201 training loss = 5.780 , time = 2.97
+Training epoch:  19
+Iter 1202 training loss = 3.559 , time = 2.84
+Training epoch:  19
+Iter 1203 training loss = 1.646 , time = 2.59
+Training epoch:  19
+Iter 1204 training loss = 1.346 , time = 2.70
+Training epoch:  19
+Iter 1205 training loss = 11.249 , time = 2.51
+Training epoch:  19
+Iter 1206 training loss = 46.570 , time = 2.80
+Training epoch:  19
+Iter 1207 training loss = 3.554 , time = 2.59
+Training epoch:  19
+Iter 1208 training loss = 21.183 , time = 2.86
+Training epoch:  19
+Iter 1209 training loss = 7.186 , time = 2.82
+Training epoch:  19
+Iter 1210 training loss = 8.565 , time = 2.66
+Training epoch:  19
+Iter 1211 training loss = 13.735 , time = 2.97
+Training epoch:  19
+Iter 1212 training loss = 7.564 , time = 2.63
+Training epoch:  19
+Iter 1213 training loss = 4.416 , time = 2.90
+Training epoch:  19
+Iter 1214 training loss = 7.003 , time = 2.59
+Training epoch:  19
+Iter 1215 training loss = 4.611 , time = 2.92
+Training epoch:  19
+Iter 1216 training loss = 17.497 , time = 2.91
+Training epoch:  19
+Iter 1217 training loss = 3.468 , time = 2.69
+Training epoch:  19
+Iter 1218 training loss = 5.953 , time = 2.72
+Training epoch:  19
+Iter 1219 training loss = 2.930 , time = 2.57
+Training epoch:  19
+Iter 1220 training loss = 6.297 , time = 2.78
+Training epoch:  19
+Iter 1221 training loss = 10.145 , time = 2.73
+Training epoch:  19
+Iter 1222 training loss = 13.069 , time = 2.98
+Training epoch:  19
+Iter 1223 training loss = 16.046 , time = 2.66
+Training epoch:  19
+Iter 1224 training loss = 19.893 , time = 2.92
+Training epoch:  19
+Iter 1225 training loss = 6.734 , time = 2.70
+Training epoch:  19
+Iter 1226 training loss = 4.619 , time = 2.63
+Training epoch:  19
+Iter 1227 training loss = 12.152 , time = 2.86
+Training epoch:  19
+Iter 1228 training loss = 7.537 , time = 2.51
+Training epoch:  19
+Iter 1229 training loss = 5.605 , time = 2.84
+Training epoch:  19
+Iter 1230 training loss = 12.544 , time = 2.61
+Training epoch:  19
+Iter 1231 training loss = 7.805 , time = 2.85
+Training epoch:  19
+Iter 1232 training loss = 4.660 , time = 2.76
+Training epoch:  19
+Iter 1233 training loss = 18.358 , time = 2.95
+Training epoch:  19
+Iter 1234 training loss = 3.094 , time = 2.77
+Training epoch:  19
+Iter 1235 training loss = 23.259 , time = 2.74
+Training epoch:  19
+Iter 1236 training loss = 6.049 , time = 2.84
+Training epoch:  19
+Iter 1237 training loss = 20.749 , time = 2.56
+Training epoch:  19
+Iter 1238 training loss = 2.601 , time = 2.87
+Training epoch:  19
+Iter 1239 training loss = 36.972 , time = 2.58
+Training epoch:  19
+Iter 1240 training loss = 6.293 , time = 2.90
+Training epoch:  19
+Iter 1241 training loss = 84.629 , time = 2.60
+Training epoch:  19
+Iter 1242 training loss = 6.392 , time = 2.93
+Training epoch:  19
+Iter 1243 training loss = 18.046 , time = 2.66
+Training epoch:  19
+Iter 1244 training loss = 39.001 , time = 2.70
+Training epoch:  19
+Iter 1245 training loss = 19.874 , time = 2.72
+Training epoch:  19
+Iter 1246 training loss = 21.046 , time = 2.65
+Training epoch:  19
+Iter 1247 training loss = 19.813 , time = 2.92
+Training epoch:  19
+Iter 1248 training loss = 6.382 , time = 2.65
+Training epoch:  19
+Iter 1249 training loss = 9.874 , time = 2.73
+Training epoch:  19
+Iter 1250 training loss = 10.708 , time = 2.53
+Training epoch:  19
+Iter 1251 training loss = 3.222 , time = 2.76
+Training epoch:  19
+Iter 1252 training loss = 11.318 , time = 2.50
+Training epoch:  19
+Iter 1253 training loss = 5.972 , time = 2.91
+Training epoch:  19
+Iter 1254 training loss = 7.315 , time = 2.82
+Training epoch:  19
+Iter 1255 training loss = 2.205 , time = 2.69
+Training epoch:  19
+Iter 1256 training loss = 6.627 , time = 2.75
+Training epoch:  19
+Iter 1257 training loss = 2.722 , time = 2.89
+Training epoch:  19
+Iter 1258 training loss = 20.490 , time = 2.71
+Training epoch:  19
+Iter 1259 training loss = 15.252 , time = 2.62
+Training epoch:  19
+Iter 1260 training loss = 7.955 , time = 2.73
+Training epoch:  19
+Iter 1261 training loss = 9.640 , time = 2.66
+Training epoch:  19
+Iter 1262 training loss = 6.738 , time = 2.88
+Training epoch:  19
+Iter 1263 training loss = 22.157 , time = 2.85
+Training epoch:  19
+Iter 1264 training loss = 12.178 , time = 2.82
+Training epoch:  19
+Iter 1265 training loss = 19.167 , time = 2.77
+Training epoch:  19
+Iter 1266 training loss = 5.256 , time = 2.67
+Training epoch:  19
+Iter 1267 training loss = 2.900 , time = 2.81
+Training epoch:  19
+Iter 1268 training loss = 7.071 , time = 2.62
+Training epoch:  19
+Iter 1269 training loss = 7.334 , time = 2.83
+Training epoch:  19
+Iter 1270 training loss = 2.546 , time = 2.74
+Training epoch:  19
+Iter 1271 training loss = 3.027 , time = 2.74
+Training epoch:  19
+Iter 1272 training loss = 10.444 , time = 2.78
+Training epoch:  19
+Iter 1273 training loss = 174.628 , time = 2.83
+Training epoch:  19
+Iter 1274 training loss = 43.759 , time = 2.81
+Training epoch:  19
+Iter 1275 training loss = 2.905 , time = 2.58
+Training epoch:  19
+Iter 1276 training loss = 12.644 , time = 2.75
+Training epoch:  19
+Iter 1277 training loss = 7.810 , time = 2.63
+Training epoch:  19
+Iter 1278 training loss = 12.883 , time = 2.68
+Training epoch:  19
+Iter 1279 training loss = 17.882 , time = 2.75
+Training epoch:  19
+Iter 1280 training loss = 10.972 , time = 2.94
+Training epoch:  19
+Iter 1281 training loss = 3.335 , time = 2.58
+Training epoch:  19
+Iter 1282 training loss = 5.097 , time = 2.85
+Training epoch:  19
+Iter 1283 training loss = 47.611 , time = 2.68
+Training epoch:  19
+Iter 1284 training loss = 15.871 , time = 2.84
+Training epoch:  19
+Iter 1285 training loss = 11.814 , time = 2.78
+Training epoch:  19
+Iter 1286 training loss = 8.146 , time = 2.65
+Training epoch:  19
+Iter 1287 training loss = 7.805 , time = 2.84
+Training epoch:  19
+Iter 1288 training loss = 5.823 , time = 2.77
+Training epoch:  19
+Iter 1289 training loss = 7.015 , time = 2.75
+Training epoch:  19
+Iter 1290 training loss = 9.917 , time = 2.56
+Training epoch:  19
+Iter 1291 training loss = 10.287 , time = 2.67
+Training epoch:  19
+Iter 1292 training loss = 11.832 , time = 2.58
+Training epoch:  19
+Iter 1293 training loss = 20.762 , time = 2.77
+Training epoch:  19
+Iter 1294 training loss = 15.267 , time = 2.88
+Training epoch:  19
+Iter 1295 training loss = 6.098 , time = 2.77
+Training epoch:  19
+Iter 1296 training loss = 5.296 , time = 2.86
+Training epoch:  19
+Iter 1297 training loss = 7.777 , time = 2.56
+Training epoch:  19
+Iter 1298 training loss = 3.183 , time = 2.75
+Training epoch:  19
+Iter 1299 training loss = 8.164 , time = 2.55
+Training epoch:  19
+Iter 1300 training loss = 11.174 , time = 2.98
+Training epoch:  19
+Iter 1301 training loss = 4.335 , time = 2.48
+Training epoch:  19
+Iter 1302 training loss = 5.237 , time = 2.95
+Training epoch:  19
+Iter 1303 training loss = 10.282 , time = 2.74
+Training epoch:  19
+Iter 1304 training loss = 13.996 , time = 2.84
+Training epoch:  19
+Iter 1305 training loss = 5.414 , time = 2.73
+Training epoch:  19
+Iter 1306 training loss = 10.987 , time = 2.64
+Training epoch:  19
+Iter 1307 training loss = 30.764 , time = 2.81
+Training epoch:  19
+Iter 1308 training loss = 4.005 , time = 2.90
+Training epoch:  19
+Iter 1309 training loss = 28.050 , time = 3.01
+Training epoch:  19
+Iter 1310 training loss = 6.286 , time = 2.72
+Training epoch:  19
+Iter 1311 training loss = 9.150 , time = 2.67
+Training epoch:  19
+Iter 1312 training loss = 5.956 , time = 2.72
+Training epoch:  19
+Iter 1313 training loss = 2.625 , time = 2.70
+Training epoch:  19
+Iter 1314 training loss = 2.302 , time = 2.75
+Training epoch:  19
+Iter 1315 training loss = 6.697 , time = 2.61
+Training epoch:  19
+Iter 1316 training loss = 32.933 , time = 2.79
+Training epoch:  19
+Iter 1317 training loss = 10.908 , time = 2.65
+Training epoch:  19
+Iter 1318 training loss = 13.772 , time = 2.79
+Training epoch:  19
+Iter 1319 training loss = 11.422 , time = 2.72
+Training epoch:  19
+Iter 1320 training loss = 31.774 , time = 2.86
+Training epoch:  19
+Iter 1321 training loss = 45.399 , time = 3.06
+Training epoch:  19
+Iter 1322 training loss = 3.565 , time = 2.68
+Training epoch:  19
+Iter 1323 training loss = 9.303 , time = 2.74
+Training epoch:  19
+Iter 1324 training loss = 4.941 , time = 2.60
+Training epoch:  19
+Iter 1325 training loss = 6.750 , time = 2.79
+Training epoch:  19
+Iter 1326 training loss = 16.982 , time = 2.56
+Training epoch:  19
+Iter 1327 training loss = 8.805 , time = 2.84
+Training epoch:  19
+Iter 1328 training loss = 32.631 , time = 2.62
+Training epoch:  19
+Iter 1329 training loss = 37.698 , time = 2.72
+Training epoch:  19
+Iter 1330 training loss = 8.838 , time = 2.69
+Training epoch:  19
+Iter 1331 training loss = 7.704 , time = 2.56
+Training epoch:  19
+Iter 1332 training loss = 3.835 , time = 2.75
+Training epoch:  19
+Iter 1333 training loss = 20.263 , time = 2.72
+Training epoch:  19
+Iter 1334 training loss = 18.633 , time = 2.97
+Training epoch:  19
+Iter 1335 training loss = 63.548 , time = 2.78
+Training epoch:  19
+Iter 1336 training loss = 12.180 , time = 2.75
+Training epoch:  19
+Iter 1337 training loss = 4.069 , time = 2.55
+Training epoch:  19
+Iter 1338 training loss = 106.812 , time = 2.95
+Training epoch:  19
+Iter 1339 training loss = 5.028 , time = 2.83
+Training epoch:  19
+Iter 1340 training loss = 9.396 , time = 2.62
+Training epoch:  19
+Iter 1341 training loss = 2.955 , time = 2.74
+Training epoch:  19
+Iter 1342 training loss = 4.952 , time = 2.63
+Training epoch:  19
+Iter 1343 training loss = 3.429 , time = 2.79
+Training epoch:  19
+Iter 1344 training loss = 3.616 , time = 2.84
+Training epoch:  19
+Iter 1345 training loss = 5.470 , time = 3.05
+Training epoch:  19
+Iter 1346 training loss = 8.572 , time = 2.78
+Training epoch:  19
+Iter 1347 training loss = 2.995 , time = 2.74
+Training epoch:  19
+Iter 1348 training loss = 1.117 , time = 2.72
+Training epoch:  19
+Iter 1349 training loss = 3.396 , time = 2.60
+Training epoch:  19
+Iter 1350 training loss = 17.899 , time = 2.80
+Training epoch:  19
+Iter 1351 training loss = 8.504 , time = 2.58
+Training epoch:  19
+Iter 1352 training loss = 6.042 , time = 2.66
+Training epoch:  19
+Iter 1353 training loss = 6.322 , time = 2.47
+Training epoch:  19
+Iter 1354 training loss = 6.599 , time = 2.73
+Training epoch:  19
+Iter 1355 training loss = 2.136 , time = 2.63
+Training epoch:  19
+Iter 1356 training loss = 9.454 , time = 3.02
+Training epoch:  19
+Iter 1357 training loss = 7.003 , time = 2.81
+Training epoch:  19
+Iter 1358 training loss = 18.253 , time = 2.75
+Training epoch:  19
+Iter 1359 training loss = 48.415 , time = 2.81
+Training epoch:  19
+Iter 1360 training loss = 3.559 , time = 2.69
+Training epoch:  19
+Iter 1361 training loss = 8.559 , time = 2.67
+Training epoch:  19
+Iter 1362 training loss = 10.571 , time = 2.60
+Training epoch:  19
+Iter 1363 training loss = 6.242 , time = 2.69
+Training epoch:  19
+Iter 1364 training loss = 34.673 , time = 2.64
+Training epoch:  19
+Iter 1365 training loss = 12.470 , time = 2.80
+Training epoch:  19
+Iter 1366 training loss = 3.604 , time = 2.56
+Training epoch:  19
+Iter 1367 training loss = 32.480 , time = 2.91
+Training epoch:  19
+Iter 1368 training loss = 7.367 , time = 2.75
+Training epoch:  19
+Iter 1369 training loss = 5.863 , time = 2.91
+Training epoch:  19
+Iter 1370 training loss = 53.370 , time = 2.79
+Training epoch:  19
+Iter 1371 training loss = 15.031 , time = 2.65
+Training epoch:  19
+Iter 1372 training loss = 34.896 , time = 2.75
+Training epoch:  19
+Iter 1373 training loss = 10.121 , time = 2.63
+Training epoch:  19
+Iter 1374 training loss = 11.633 , time = 2.76
+Training epoch:  19
+Iter 1375 training loss = 7.869 , time = 2.71
+Training epoch:  19
+Iter 1376 training loss = 6.468 , time = 2.77
+Training epoch:  19
+Iter 1377 training loss = 19.549 , time = 2.56
+Training epoch:  19
+Iter 1378 training loss = 27.414 , time = 2.48
+Training epoch:  19
+Iter 1379 training loss = 3.905 , time = 2.37
+Training epoch:  19
+Iter 1380 training loss = 27.058 , time = 2.14
+Training epoch:  19
+Iter 1381 training loss = 14.564 , time = 2.13
+Training epoch:  19
+Iter 1382 training loss = 14.422 , time = 2.12
+Training epoch:  19
+Iter 1383 training loss = 3.913 , time = 2.02
+Training epoch:  19
+Iter 1384 training loss = 48.400 , time = 2.08
+Training epoch:  19
+Iter 1385 training loss = 2.981 , time = 2.23
+Training epoch:  19
+Iter 1386 training loss = 11.821 , time = 2.07
+Training epoch:  19
+Iter 1387 training loss = 19.735 , time = 2.32
+Training epoch:  19
+Iter 1388 training loss = 13.487 , time = 2.76
+Training epoch:  19
+Iter 1389 training loss = 37.986 , time = 2.52
+Training epoch:  19
+Iter 1390 training loss = 6.259 , time = 2.38
+Training epoch:  19
+Iter 1391 training loss = 6.997 , time = 2.40
+Training epoch:  19
+Iter 1392 training loss = 21.727 , time = 2.31
+Training epoch:  19
+Iter 1393 training loss = 5.525 , time = 2.32
+Training epoch:  19
+Iter 1394 training loss = 5.088 , time = 2.40
+Training epoch:  19
+Iter 1395 training loss = 1.401 , time = 2.43
+Training epoch:  19
+Iter 1396 training loss = 19.234 , time = 2.39
+Training epoch:  19
+Iter 1397 training loss = 4.852 , time = 2.23
+Training epoch:  19
+Iter 1398 training loss = 52.165 , time = 2.41
+Training epoch:  19
+Iter 1399 training loss = 5.279 , time = 2.48
+Training epoch:  19
+Iter 1400 training loss = 14.739 , time = 2.41
+Training epoch:  19
+Iter 1401 training loss = 45.409 , time = 2.37
+Training epoch:  19
+Iter 1402 training loss = 8.208 , time = 2.46
+Training epoch:  19
+Iter 1403 training loss = 2.444 , time = 2.39
+Training epoch:  19
+Iter 1404 training loss = 19.731 , time = 2.63
+Training epoch:  19
+Iter 1405 training loss = 4.107 , time = 2.56
+Training epoch:  19
+Iter 1406 training loss = 25.706 , time = 2.28
+Training epoch:  19
+Iter 1407 training loss = 6.641 , time = 2.15
+Training epoch:  19
+Iter 1408 training loss = 6.829 , time = 2.15
+Training epoch:  19
+Iter 1409 training loss = 4.548 , time = 2.36
+Training epoch:  19
+Iter 1410 training loss = 3.172 , time = 2.12
+Training epoch:  19
+Iter 1411 training loss = 24.224 , time = 2.19
+Training epoch:  19
+Iter 1412 training loss = 12.057 , time = 2.22
+Training epoch:  19
+Iter 1413 training loss = 10.866 , time = 2.18
+Training epoch:  19
+Iter 1414 training loss = 15.783 , time = 2.15
+Training epoch:  19
+Iter 1415 training loss = 6.637 , time = 2.05
+Training epoch:  19
+Iter 1416 training loss = 13.662 , time = 2.11
+Training epoch:  19
+Iter 1417 training loss = 10.159 , time = 2.12
+Training epoch:  19
+Iter 1418 training loss = 3.764 , time = 2.23
+Training epoch:  19
+Iter 1419 training loss = 92.676 , time = 2.29
+Training epoch:  19
+Iter 1420 training loss = 5.179 , time = 2.23
+Training epoch:  19
+Iter 1421 training loss = 13.700 , time = 2.14
+Training epoch:  19
+Iter 1422 training loss = 4.586 , time = 2.41
+Training epoch:  19
+Iter 1423 training loss = 24.171 , time = 2.44
+Training epoch:  19
+Iter 1424 training loss = 6.008 , time = 2.21
+Training epoch:  19
+Iter 1425 training loss = 5.493 , time = 2.53
+Training epoch:  19
+Iter 1426 training loss = 12.424 , time = 2.15
+Training epoch:  19
+Iter 1427 training loss = 8.668 , time = 2.17
+Training epoch:  19
+Iter 1428 training loss = 8.610 , time = 2.01
+Training epoch:  19
+Iter 1429 training loss = 10.303 , time = 2.00
+Training epoch:  19
+Iter 1430 training loss = 77.833 , time = 2.08
+Training epoch:  19
+Iter 1431 training loss = 1.528 , time = 2.34
+Training epoch:  19
+Iter 1432 training loss = 3.342 , time = 2.26
+Training epoch:  19
+Iter 1433 training loss = 7.399 , time = 2.14
+Training epoch:  19
+Iter 1434 training loss = 4.616 , time = 2.09
+Training epoch:  19
+Iter 1435 training loss = 2.764 , time = 2.14
+Training epoch:  19
+Iter 1436 training loss = 6.027 , time = 2.48
+Training epoch:  19
+Iter 1437 training loss = 61.512 , time = 2.48
+Training epoch:  19
+Iter 1438 training loss = 3.652 , time = 2.35
+Training epoch:  19
+Iter 1439 training loss = 7.239 , time = 2.44
+Training epoch:  19
+Iter 1440 training loss = 30.325 , time = 2.34
+Training epoch:  19
+Iter 1441 training loss = 4.095 , time = 2.33
+Training epoch:  19
+Iter 1442 training loss = 19.503 , time = 2.29
+Training epoch:  19
+Iter 1443 training loss = 9.041 , time = 2.26
+Training epoch:  19
+Iter 1444 training loss = 23.499 , time = 2.26
+Training epoch:  19
+Iter 1445 training loss = 2.194 , time = 2.31
+Training epoch:  19
+Iter 1446 training loss = 0.913 , time = 2.21
+Training epoch:  19
+Iter 1447 training loss = 2.760 , time = 2.25
+Training epoch:  19
+Iter 1448 training loss = 14.256 , time = 2.19
+Training epoch:  19
+Iter 1449 training loss = 2.656 , time = 2.19
+Training epoch:  19
+Iter 1450 training loss = 25.288 , time = 2.16
+Training epoch:  19
+Iter 1451 training loss = 4.298 , time = 2.08
+Training epoch:  19
+Iter 1452 training loss = 12.266 , time = 2.38
+Training epoch:  19
+Iter 1453 training loss = 8.502 , time = 2.50
+Training epoch:  19
+Iter 1454 training loss = 14.087 , time = 2.12
+Training epoch:  19
+Iter 1455 training loss = 7.048 , time = 2.55
+Training epoch:  19
+Iter 1456 training loss = 5.689 , time = 2.58
+Training epoch:  19
+Iter 1457 training loss = 12.961 , time = 2.41
+Training epoch:  19
+Iter 1458 training loss = 14.035 , time = 2.47
+Training epoch:  19
+Iter 1459 training loss = 29.644 , time = 2.32
+Training epoch:  19
+Iter 1460 training loss = 13.078 , time = 2.31
+Training epoch:  19
+Iter 1461 training loss = 104.468 , time = 2.26
+Training epoch:  19
+Iter 1462 training loss = 17.699 , time = 2.20
+Training epoch:  19
+Iter 1463 training loss = 5.513 , time = 2.25
+Training epoch:  19
+Iter 1464 training loss = 6.922 , time = 2.00
+Training epoch:  19
+Iter 1465 training loss = 17.177 , time = 2.14
+Training epoch:  19
+Iter 1466 training loss = 41.029 , time = 2.06
+Training epoch:  19
+Iter 1467 training loss = 14.102 , time = 2.12
+Training epoch:  19
+Iter 1468 training loss = 10.006 , time = 2.32
+Training epoch:  19
+Iter 1469 training loss = 10.394 , time = 2.29
+Training epoch:  19
+Iter 1470 training loss = 7.755 , time = 2.41
+Training epoch:  19
+Iter 1471 training loss = 27.930 , time = 2.12
+Training epoch:  19
+Iter 1472 training loss = 12.284 , time = 2.16
+Training epoch:  19
+Iter 1473 training loss = 19.352 , time = 2.38
+Training epoch:  19
+Iter 1474 training loss = 10.538 , time = 2.15
+Training epoch:  19
+Iter 1475 training loss = 5.316 , time = 2.06
+Training epoch:  19
+Iter 1476 training loss = 4.385 , time = 2.00
+Training epoch:  19
+Iter 1477 training loss = 10.393 , time = 2.27
+Training epoch:  19
+Iter 1478 training loss = 38.495 , time = 2.48
+Training epoch:  19
+Iter 1479 training loss = 3.493 , time = 2.55
+Training epoch:  19
+Iter 1480 training loss = 5.536 , time = 2.37
+Training epoch:  19
+Iter 1481 training loss = 8.341 , time = 2.37
+Training epoch:  19
+Iter 1482 training loss = 7.621 , time = 2.33
+Training epoch:  19
+Iter 1483 training loss = 21.842 , time = 2.32
+Training epoch:  19
+Iter 1484 training loss = 9.054 , time = 2.54
+Training epoch:  19
+Iter 1485 training loss = 18.624 , time = 2.34
+Training epoch:  19
+Iter 1486 training loss = 5.149 , time = 2.25
+Training epoch:  19
+Iter 1487 training loss = 1.208 , time = 2.12
+Training epoch:  19
+Iter 1488 training loss = 8.351 , time = 2.32
+Training epoch:  19
+Iter 1489 training loss = 2.374 , time = 2.36
+Training epoch:  19
+Iter 1490 training loss = 16.210 , time = 2.44
+Training epoch:  19
+Iter 1491 training loss = 7.048 , time = 2.45
+Training epoch:  19
+Iter 1492 training loss = 6.407 , time = 2.36
+Training epoch:  19
+Iter 1493 training loss = 6.188 , time = 2.42
+Training epoch:  19
+Iter 1494 training loss = 21.254 , time = 2.43
+Training epoch:  19
+Iter 1495 training loss = 6.774 , time = 2.33
+Training epoch:  19
+Iter 1496 training loss = 11.806 , time = 2.05
+Training epoch:  19
+Iter 1497 training loss = 3.592 , time = 1.98
+Training epoch:  19
+Iter 1498 training loss = 10.986 , time = 2.05
+Training epoch:  19
+Iter 1499 training loss = 21.980 , time = 2.11
+Training epoch:  19
+Iter 1500 training loss = 9.951 , time = 2.06
+Training epoch:  19
+Iter 1501 training loss = 10.977 , time = 2.40
+Training epoch:  19
+Iter 1502 training loss = 1.909 , time = 2.38
+Training epoch:  19
+Iter 1503 training loss = 6.785 , time = 2.46
+Training epoch:  19
+Iter 1504 training loss = 13.069 , time = 2.34
+Training epoch:  19
+Iter 1505 training loss = 5.452 , time = 2.26
+Training epoch:  19
+Iter 1506 training loss = 12.072 , time = 2.13
+Training epoch:  19
+Iter 1507 training loss = 10.087 , time = 2.13
+Training epoch:  19
+Iter 1508 training loss = 5.714 , time = 2.03
+Training epoch:  19
+Iter 1509 training loss = 17.251 , time = 2.06
+Training epoch:  19
+Iter 1510 training loss = 48.237 , time = 2.21
+Training epoch:  19
+Iter 1511 training loss = 16.512 , time = 2.12
+Training epoch:  19
+Iter 1512 training loss = 3.418 , time = 2.41
+Training epoch:  19
+Iter 1513 training loss = 5.972 , time = 2.11
+Training epoch:  19
+Iter 1514 training loss = 9.292 , time = 2.07
+Training epoch:  19
+Iter 1515 training loss = 9.652 , time = 2.62
+Training epoch:  19
+Iter 1516 training loss = 29.432 , time = 2.81
+Training epoch:  19
+Iter 1517 training loss = 10.724 , time = 2.39
+Training epoch:  19
+Iter 1518 training loss = 19.263 , time = 2.34
+Training epoch:  19
+Iter 1519 training loss = 13.882 , time = 2.41
+Training epoch:  19
+Iter 1520 training loss = 2.749 , time = 2.33
+Training epoch:  19
+Iter 1521 training loss = 11.672 , time = 2.44
+Training epoch:  19
+Iter 1522 training loss = 8.801 , time = 2.43
+Training epoch:  19
+Iter 1523 training loss = 14.287 , time = 2.33
+Training epoch:  19
+Iter 1524 training loss = 9.802 , time = 2.13
+Training epoch:  19
+Iter 1525 training loss = 2.848 , time = 1.97
+Training epoch:  19
+Iter 1526 training loss = 15.549 , time = 2.13
+Training epoch:  19
+Iter 1527 training loss = 19.379 , time = 2.23
+Training epoch:  19
+Iter 1528 training loss = 2.873 , time = 2.16
+Training epoch:  19
+Iter 1529 training loss = 13.048 , time = 2.13
+Training epoch:  19
+Iter 1530 training loss = 28.760 , time = 2.43
+Training epoch:  19
+Iter 1531 training loss = 8.900 , time = 2.70
+Training epoch:  19
+Iter 1532 training loss = 7.500 , time = 2.14
+Training epoch:  19
+Iter 1533 training loss = 5.654 , time = 1.95
+Training epoch:  19
+Iter 1534 training loss = 9.395 , time = 2.11
+Training epoch:  19
+Iter 1535 training loss = 4.003 , time = 2.20
+Training epoch:  19
+Iter 1536 training loss = 3.097 , time = 2.14
+Training epoch:  19
+Iter 1537 training loss = 2.579 , time = 2.19
+Training epoch:  19
+Iter 1538 training loss = 10.509 , time = 2.41
+Training epoch:  19
+Iter 1539 training loss = 15.835 , time = 2.34
+Training epoch:  19
+Iter 1540 training loss = 7.003 , time = 2.44
+Training epoch:  19
+Iter 1541 training loss = 2.822 , time = 2.30
+Training epoch:  19
+Iter 1542 training loss = 7.280 , time = 2.41
+Training epoch:  19
+Iter 1543 training loss = 9.787 , time = 2.32
+Training epoch:  19
+Iter 1544 training loss = 7.751 , time = 2.39
+Training epoch:  19
+Iter 1545 training loss = 5.047 , time = 2.41
+Training epoch:  19
+Iter 1546 training loss = 10.138 , time = 2.60
+Training epoch:  19
+Iter 1547 training loss = 6.052 , time = 2.55
+Training epoch:  19
+Iter 1548 training loss = 5.615 , time = 2.19
+Training epoch:  19
+Iter 1549 training loss = 8.842 , time = 2.08
+Training epoch:  19
+Iter 1550 training loss = 4.932 , time = 2.21
+Training epoch:  19
+Iter 1551 training loss = 7.868 , time = 2.00
+Training epoch:  19
+Iter 1552 training loss = 1.586 , time = 2.11
+Training epoch:  19
+Iter 1553 training loss = 3.297 , time = 2.01
+Training epoch:  19
+Iter 1554 training loss = 19.101 , time = 2.12
+Training epoch:  19
+Iter 1555 training loss = 7.382 , time = 2.13
+Training epoch:  19
+Iter 1556 training loss = 15.912 , time = 2.36
+Training epoch:  19
+Iter 1557 training loss = 7.421 , time = 2.19
+Training epoch:  19
+Iter 1558 training loss = 19.641 , time = 2.14
+Training epoch:  19
+Iter 1559 training loss = 8.780 , time = 2.13
+Training epoch:  19
+Iter 1560 training loss = 6.503 , time = 2.23
+Training epoch:  19
+Iter 1561 training loss = 19.107 , time = 2.41
+Training epoch:  19
+Iter 1562 training loss = 18.305 , time = 2.57
+Training epoch:  19
+Iter 1563 training loss = 9.260 , time = 2.58
+Training epoch:  19
+Iter 1564 training loss = 23.808 , time = 2.26
+Training epoch:  19
+Iter 1565 training loss = 40.054 , time = 2.08
+Training epoch:  19
+Iter 1566 training loss = 3.980 , time = 2.12
+Training epoch:  19
+Iter 1567 training loss = 6.096 , time = 2.00
+Training epoch:  19
+Iter 1568 training loss = 6.228 , time = 2.05
+Training epoch:  19
+Iter 1569 training loss = 9.965 , time = 2.14
+Training epoch:  19
+Iter 1570 training loss = 9.769 , time = 2.32
+Training epoch:  19
+Iter 1571 training loss = 6.378 , time = 2.21
+Training epoch:  19
+Iter 1572 training loss = 5.757 , time = 2.05
+Training epoch:  19
+Iter 1573 training loss = 7.753 , time = 2.37
+Training epoch:  19
+Iter 1574 training loss = 14.743 , time = 2.25
+Training epoch:  19
+Iter 1575 training loss = 4.899 , time = 2.44
+Training epoch:  19
+Iter 1576 training loss = 5.232 , time = 2.44
+Training epoch:  19
+Iter 1577 training loss = 3.934 , time = 2.57
+Training epoch:  19
+Iter 1578 training loss = 6.239 , time = 2.35
+Training epoch:  19
+Iter 1579 training loss = 19.857 , time = 2.00
+Training epoch:  19
+Iter 1580 training loss = 17.958 , time = 2.35
+Training epoch:  19
+Iter 1581 training loss = 2.905 , time = 2.16
+Training epoch:  19
+Iter 1582 training loss = 5.777 , time = 2.05
+Training epoch:  19
+Iter 1583 training loss = 22.368 , time = 2.11
+Training epoch:  19
+Iter 1584 training loss = 5.901 , time = 2.49
+Training epoch:  19
+Iter 1585 training loss = 8.011 , time = 2.13
+Training epoch:  19
+Iter 1586 training loss = 16.106 , time = 2.02
+Training epoch:  19
+Iter 1587 training loss = 2.835 , time = 2.26
+Training epoch:  19
+Iter 1588 training loss = 8.656 , time = 2.13
+Training epoch:  19
+Iter 1589 training loss = 3.071 , time = 2.19
+Training epoch:  19
+Iter 1590 training loss = 12.532 , time = 2.15
+Training epoch:  19
+Iter 1591 training loss = 3.861 , time = 2.01
+Training epoch:  19
+Iter 1592 training loss = 17.697 , time = 2.45
+Training epoch:  19
+Iter 1593 training loss = 103.296 , time = 2.46
+Training epoch:  19
+Iter 1594 training loss = 6.399 , time = 2.48
+Training epoch:  19
+Iter 1595 training loss = 8.889 , time = 2.20
+Training epoch:  19
+Iter 1596 training loss = 6.766 , time = 2.24
+Training epoch:  19
+Iter 1597 training loss = 27.087 , time = 2.23
+Training epoch:  19
+Iter 1598 training loss = 3.797 , time = 1.93
+Training epoch:  19
+Iter 1599 training loss = 2.532 , time = 2.08
+Training epoch:  19
+Iter 1600 training loss = 6.024 , time = 2.37
+Training epoch:  19
+Iter 1601 training loss = 2.168 , time = 2.59
+Training epoch:  19
+Iter 1602 training loss = 1.562 , time = 2.51
+Training epoch:  19
+Iter 1603 training loss = 4.210 , time = 2.36
+Training epoch:  19
+Iter 1604 training loss = 14.069 , time = 2.40
+Training epoch:  19
+Iter 1605 training loss = 12.823 , time = 2.56
+Training epoch:  19
+Iter 1606 training loss = 9.973 , time = 2.68
+Training epoch:  19
+Iter 1607 training loss = 8.949 , time = 2.47
+Training epoch:  19
+Iter 1608 training loss = 4.501 , time = 2.43
+Training epoch:  19
+Iter 1609 training loss = 3.277 , time = 2.43
+Training epoch:  19
+Iter 1610 training loss = 5.225 , time = 2.50
+Training epoch:  19
+Iter 1611 training loss = 9.615 , time = 2.30
+Training epoch:  19
+Iter 1612 training loss = 8.682 , time = 2.44
+Training epoch:  19
+Iter 1613 training loss = 1.601 , time = 2.34
+Training epoch:  19
+Iter 1614 training loss = 7.107 , time = 2.47
+Training epoch:  19
+Iter 1615 training loss = 27.975 , time = 2.35
+Training epoch:  19
+Iter 1616 training loss = 43.994 , time = 2.34
+Training epoch:  19
+Iter 1617 training loss = 6.458 , time = 2.16
+Training epoch:  19
+Iter 1618 training loss = 7.586 , time = 2.31
+Training epoch:  19
+Iter 1619 training loss = 13.485 , time = 2.41
+Training epoch:  19
+Iter 1620 training loss = 10.063 , time = 2.31
+Training epoch:  19
+Iter 1621 training loss = 8.015 , time = 2.21
+Training epoch:  19
+Iter 1622 training loss = 8.474 , time = 2.17
+Training epoch:  19
+Iter 1623 training loss = 6.312 , time = 2.17
+Training epoch:  19
+Iter 1624 training loss = 7.273 , time = 2.07
+Training epoch:  19
+Iter 1625 training loss = 7.296 , time = 2.09
+Training epoch:  19
+Iter 1626 training loss = 5.889 , time = 2.17
+Training epoch:  19
+Iter 1627 training loss = 12.641 , time = 2.37
+Training epoch:  19
+Iter 1628 training loss = 17.062 , time = 2.50
+Training epoch:  19
+Iter 1629 training loss = 6.086 , time = 2.46
+Training epoch:  19
+Iter 1630 training loss = 30.650 , time = 2.23
+Training epoch:  19
+Iter 1631 training loss = 6.949 , time = 2.15
+Training epoch:  19
+Iter 1632 training loss = 10.128 , time = 2.43
+Training epoch:  19
+Iter 1633 training loss = 17.117 , time = 2.26
+Training epoch:  19
+Iter 1634 training loss = 5.333 , time = 2.34
+Training epoch:  19
+Iter 1635 training loss = 5.747 , time = 2.56
+Training epoch:  19
+Iter 1636 training loss = 11.429 , time = 2.60
+Training epoch:  19
+Iter 1637 training loss = 4.031 , time = 2.65
+Training epoch:  19
+Iter 1638 training loss = 4.802 , time = 2.23
+Training epoch:  19
+Iter 1639 training loss = 3.458 , time = 2.13
+Training epoch:  19
+Iter 1640 training loss = 4.667 , time = 2.14
+Training epoch:  19
+Iter 1641 training loss = 7.862 , time = 2.22
+Training epoch:  19
+Iter 1642 training loss = 10.080 , time = 2.18
+Training epoch:  19
+Iter 1643 training loss = 14.398 , time = 2.21
+Training epoch:  19
+Iter 1644 training loss = 5.992 , time = 2.17
+Training epoch:  19
+Iter 1645 training loss = 47.873 , time = 1.77
+Training epoch:  19
+Iter 1646 training loss = 33.740 , time = 1.66
+Training epoch:  19
+Iter 1647 training loss = 6.595 , time = 2.08
+Training epoch:  19
+Iter 1648 training loss = 26.481 , time = 3.44
+Training epoch:  19
+Iter 1649 training loss = 4.030 , time = 2.69
+Training epoch:  19
+Iter 1650 training loss = 12.989 , time = 1.85
+epoch 19 total training loss = 12.384
+/home/tung/anaconda3/envs/psmnet/lib/python3.7/site-packages/torch/nn/functional.py:3487: UserWarning: nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.
+  warnings.warn("nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.")
+/home/tung/anaconda3/envs/psmnet/lib/python3.7/site-packages/torch/nn/functional.py:3613: UserWarning: Default upsampling behavior when mode=bilinear is changed to align_corners=False since 0.4.0. Please specify align_corners=True if the old behavior is desired. See the documentation of nn.Upsample for details.
+  "See the documentation of nn.Upsample for details.".format(mode)
+/home/tung/anaconda3/envs/psmnet/lib/python3.7/site-packages/torch/nn/functional.py:3613: UserWarning: Default upsampling behavior when mode=trilinear is changed to align_corners=False since 0.4.0. Please specify align_corners=True if the old behavior is desired. See the documentation of nn.Upsample for details.
+  "See the documentation of nn.Upsample for details.".format(mode)
+/home/tung/anaconda3/envs/psmnet/lib/python3.7/site-packages/torch/nn/_reduction.py:42: UserWarning: size_average and reduce args will be deprecated, please use reduction='mean' instead.
+  warnings.warn(warning.format(ret))
