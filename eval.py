@@ -188,13 +188,14 @@ def main():
     max_epo=0
     start_full_time = time.time()
     total_test_loss = 0
+    print('Length test img loader', len(TestImgLoader))
 
     for batch_idx, (imgL, imgR, disp_L) in enumerate(TestImgLoader):
         test_loss = test(imgL,imgR, disp_L)
         print('Iter %d 3-px error in val = %.3f' %(batch_idx, test_loss*100))
         total_test_loss += test_loss
 
-        print('epoch total 3-px error in val = %.3f' %(total_test_loss/len(TestImgLoader)*100))
+    print('epoch total 3-px error in val = %.3f' %(total_test_loss/len(TestImgLoader)*100))
 
     '''
     for epoch in range(19, args.epochs+1):
