@@ -26,7 +26,8 @@ def dataloader(filepath):
 
     ## Split to train and val sets
     train = image[:]
-    val   = image[:214]
+    # val   = image[:214] ## valid
+    val   = image[:] ## Test 
 
     ## Create list of train images
     left_train  = [filepath+left_fold+img[0: len(img) - 5]+'5.jpg' for img in train]
