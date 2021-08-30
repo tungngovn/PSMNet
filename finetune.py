@@ -187,9 +187,10 @@ def main():
     max_acc=0
     max_epo=0
     start_full_time = time.time()
+    total_train_loss = 0
 
     for epoch in range(19, args.epochs+1):
-        total_train_loss = 0
+        # total_train_loss = 0
         total_test_loss = 0
         adjust_learning_rate(optimizer,epoch)
 
