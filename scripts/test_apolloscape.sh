@@ -5,7 +5,7 @@ python eval.py --maxdisp 192 \
                    --datatype apolloscape \
                    --datapath dataset/apolloscape/stereo_test/ \
                    --epochs 100 \
-                   --batch_size 2 \
+                   --batch_size 1 \
                    --loadmodel ./trained/finetune_50.tar \
                    --savemodel ./trained/ #2>&1 |tee ./logs/train_logs.txt
 
