@@ -187,6 +187,7 @@ def main():
     max_acc=0
     max_epo=0
     start_full_time = time.time()
+    total_test_loss = 0
 
     for batch_idx, (imgL, imgR, disp_L) in enumerate(TestImgLoader):
         test_loss = test(imgL,imgR, disp_L)
