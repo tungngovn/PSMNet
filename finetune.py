@@ -61,7 +61,7 @@ elif args.datatype == 'apolloscape':
     print("Added apolloscape dataset") ## Print to debug
     pass
 
-lr = 0.0001 ## Init lr
+lr = 0.001 ## Init lr
 
 all_left_img, all_right_img, all_left_disp, test_left_img, test_right_img, test_left_disp = ls.dataloader(args.datapath)
 
@@ -93,7 +93,7 @@ print('Number of model parameters: {}'.format(sum([p.data.nelement() for p in mo
 optimizer = optim.Adam(model.parameters(), lr=0.1, betas=(0.9, 0.999))
 
 ## Define checkpoints folder to use tensorboard
-checkpoint_dir = './checkpoints/PSMNet_1st'
+checkpoint_dir = './checkpoints/PSMNet_3rd'
 train_writer = SummaryWriter(checkpoint_dir)
 ## End defining checkpoints folder
 
@@ -189,7 +189,7 @@ def main():
     start_full_time = time.time()
     total_train_loss = 0
 
-    for epoch in range(19, args.epochs+1):
+    for epoch in range(1, args.epochs+1):
         # total_train_loss = 0
         total_test_loss = 0
         adjust_learning_rate(optimizer,epoch)
