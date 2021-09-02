@@ -162,7 +162,7 @@ def test(imgL,imgR,disp_true):
     with torch.no_grad(): 
         disp = model(imgL,imgR)
         print('Disp[0] shape: ', disp[0].shape)
-        disp = torch.squeeze(disp,0)
+        disp = torch.squeeze(disp,1)
         print('Disp shape: ', disp.shape)
         print('Target after mask shape: ', target.shape)
 
