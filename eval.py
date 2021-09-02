@@ -149,7 +149,7 @@ def test(imgL,imgR,disp_true):
 
     ## Copy from LEAStereo
     target = torch.squeeze(target,1)
-    mask = target < opt.maxdisp
+    mask = target < args.maxdisp
     mask.detach_()
     valid=target[mask].size()[0]
     ## End copy
@@ -166,7 +166,7 @@ def test(imgL,imgR,disp_true):
         pred_disp = disp.cpu().detach() 
         true_disp = target.cpu().detach()
         disp_true = true_disp
-        index = np.argwhere(true_disp<opt.maxdisp)
+        index = np.argwhere(true_disp<args.maxdisp)
         disp_true[index[0][:], index[1][:], index[2][:]] = np.abs(true_disp[index[0][:], index[1][:], index[2][:]]-pred_disp[index[0][:], index[1][:], index[2][:]])
         correct = (disp_true[index[0][:], index[1][:], index[2][:]] < 1)|(disp_true[index[0][:], index[1][:], index[2][:]] < true_disp[index[0][:], index[1][:], index[2][:]]*0.05)      
         three_px_acc = 1-(float(torch.sum(correct))/float(len(index[0])))
