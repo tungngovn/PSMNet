@@ -162,13 +162,13 @@ def test(imgL,imgR,disp_true):
     with torch.no_grad(): 
         disp = model(imgL,imgR)
         print('Disp[0] shape: ', disp[0].shape)
-        disp = torch.squeeze(disp,1)
+        disp = torch.squeeze(disp,0)
         print('Disp shape: ', disp.shape)
         print('Target after mask shape: ', target.shape)
 
         error = torch.mean(torch.abs(disp[mask] - target[mask])) 
 
-        valid_iteration += 1
+        # valid_iteration += 1
         epoch_error += error.item()              
         #computing 3-px error#                
         pred_disp = disp.cpu().detach() 
