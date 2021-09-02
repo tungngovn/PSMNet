@@ -178,42 +178,42 @@ def test(imgL,imgR,disp_true):
 
     # print("===> Test: Avg. Error: ({:.4f} {:.4f})".format(epoch_error/valid_iteration, three_px_acc_all/valid_iteration))
     return three_px_acc, error
-        ## End copy
+    ## End copy
 
-        ## Custom evaluation code
-        '''
-        with torch.no_grad():
-            output3 = model(imgL,imgR)
+    ## Custom evaluation code
+    '''
+    with torch.no_grad():
+        output3 = model(imgL,imgR)
 
-        pred_disp = output3.data.cpu()
+    pred_disp = output3.data.cpu()
 
 
 
-        ## Edit to compute 3-px error
-        true_disp = copy.deepcopy(disp_true)
-        mask_0 = (true_disp>0)
-        td = true_disp.mul(mask_0)
-        pd = pred_disp.mul(mask_0)
-        d_px = torch.abs(td-pd)
-        correct = (d_px>3)
-        thres3 = float(torch.sum(correct))/
-        epe = torch.mean(d_px.float())
-        # print('thres3: ', thres3)
-        torch.cuda.empty_cache()
-        ## Done edit
-        return thres3
-        '''
+    ## Edit to compute 3-px error
+    true_disp = copy.deepcopy(disp_true)
+    mask_0 = (true_disp>0)
+    td = true_disp.mul(mask_0)
+    pd = pred_disp.mul(mask_0)
+    d_px = torch.abs(td-pd)
+    correct = (d_px>3)
+    thres3 = float(torch.sum(correct))/
+    epe = torch.mean(d_px.float())
+    # print('thres3: ', thres3)
+    torch.cuda.empty_cache()
+    ## Done edit
+    return thres3
+    '''
 
-        # #computing 3-px error#
-        # true_disp = copy.deepcopy(disp_true)
-        # print("True disp shape: ", true_disp.shape) ## Print to debug
-        # print("Disp_true shape: ", disp_true.shape) ## Print to debug
-        # index = np.argwhere(true_disp>0)
-        # disp_true[index[0][:], index[1][:], index[2][:]] = np.abs(true_disp[index[0][:], index[1][:], index[2][:]]-pred_disp[index[0][:], index[1][:], index[2][:]])
-        # correct = (disp_true[index[0][:], index[1][:], index[2][:]] < 3)|(disp_true[index[0][:], index[1][:], index[2][:]] < true_disp[index[0][:], index[1][:], index[2][:]]*0.05)      
-        # torch.cuda.empty_cache()
+    # #computing 3-px error#
+    # true_disp = copy.deepcopy(disp_true)
+    # print("True disp shape: ", true_disp.shape) ## Print to debug
+    # print("Disp_true shape: ", disp_true.shape) ## Print to debug
+    # index = np.argwhere(true_disp>0)
+    # disp_true[index[0][:], index[1][:], index[2][:]] = np.abs(true_disp[index[0][:], index[1][:], index[2][:]]-pred_disp[index[0][:], index[1][:], index[2][:]])
+    # correct = (disp_true[index[0][:], index[1][:], index[2][:]] < 3)|(disp_true[index[0][:], index[1][:], index[2][:]] < true_disp[index[0][:], index[1][:], index[2][:]]*0.05)      
+    # torch.cuda.empty_cache()
 
-        # return 1-(float(torch.sum(correct))/float(len(index[0])))
+    # return 1-(float(torch.sum(correct))/float(len(index[0])))
 
 def adjust_learning_rate(optimizer, epoch):
     global lr
