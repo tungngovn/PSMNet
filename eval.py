@@ -148,10 +148,10 @@ def test(imgL,imgR,disp_true):
         target = target.cuda() ## Added
 
     ## Copy from LEAStereo
-    print("imgL shape: ", imgL.shape)
-    print("imgR shape: ", imgR.shape)
-    print("Target shape: ", target.shape)
-    target = torch.squeeze(target,1)
+    # print("imgL shape: ", imgL.shape)
+    # print("imgR shape: ", imgR.shape)
+    # print("Target shape: ", target.shape)
+    # target = torch.squeeze(target,1)
     mask = target < args.maxdisp
     mask.detach_()
     valid=target[mask].size()[0]
@@ -161,10 +161,10 @@ def test(imgL,imgR,disp_true):
     ## Copy from LEAStereo
     with torch.no_grad(): 
         disp = model(imgL,imgR)
-        print('Disp[0] shape: ', disp[0].shape)
+        # print('Disp[0] shape: ', disp[0].shape)
         disp = torch.squeeze(disp,1)
-        print('Disp shape: ', disp.shape)
-        print('Target after mask shape: ', target.shape)
+        # print('Disp shape: ', disp.shape)
+        # print('Target after mask shape: ', target.shape)
 
         error = torch.mean(torch.abs(disp[mask] - target[mask])) 
 
