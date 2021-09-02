@@ -132,17 +132,62 @@ def train(imgL,imgR,disp_L):
         return loss.data ## Edit for new pytorch version
 
 def test(imgL,imgR,disp_true):
-        model.eval()
-        imgL   = Variable(torch.FloatTensor(imgL))
-        imgR   = Variable(torch.FloatTensor(imgR))
-        disp_true = Variable(torch.FloatTensor(disp_true)) ## Add to fix bug
-        if args.cuda:
-            imgL, imgR = imgL.cuda(), imgR.cuda()
+        
+    ## Copy from LEAStereo
+    # epoch_error = 0
+    # valid_iteration = 0
+    # three_px_acc_all = 0
+    model.eval()
+    ## End copy
 
+    imgL   = Variable(torch.FloatTensor(imgL))
+    imgR   = Variable(torch.FloatTensor(imgR))
+    target = Variable(torch.FloatTensor(disp_true)) ## Add to fix bug
+    if args.cuda:
+        imgL, imgR = imgL.cuda(), imgR.cuda()
+        target = target.cuda() ## Added
+
+    ## Copy from LEAStereo
+    target = torch.squeeze(target,1)
+    mask = target < opt.maxdisp
+    mask.detach_()
+    valid=target[mask].size()[0]
+    ## End copy
+
+
+    ## Copy from LEAStereo
+    with torch.no_grad(): 
+        disp = model(imgL,imgR)
+        error = torch.mean(torch.abs(disp[mask] - target[mask])) 
+
+        valid_iteration += 1
+        epoch_error += error.item()              
+        #computing 3-px error#                
+        pred_disp = disp.cpu().detach() 
+        true_disp = target.cpu().detach()
+        disp_true = true_disp
+        index = np.argwhere(true_disp<opt.maxdisp)
+        disp_true[index[0][:], index[1][:], index[2][:]] = np.abs(true_disp[index[0][:], index[1][:], index[2][:]]-pred_disp[index[0][:], index[1][:], index[2][:]])
+        correct = (disp_true[index[0][:], index[1][:], index[2][:]] < 1)|(disp_true[index[0][:], index[1][:], index[2][:]] < true_disp[index[0][:], index[1][:], index[2][:]]*0.05)      
+        three_px_acc = 1-(float(torch.sum(correct))/float(len(index[0])))
+
+        # three_px_acc_all += three_px_acc
+
+        # print("===> Test({}/{}): Error: ({:.4f} {:.4f})".format(iteration, len(testing_data_loader), error.item(), three_px_acc))
+        # sys.stdout.flush()
+
+    # print("===> Test: Avg. Error: ({:.4f} {:.4f})".format(epoch_error/valid_iteration, three_px_acc_all/valid_iteration))
+    return three_px_acc, error
+        ## End copy
+
+        ## Custom evaluation code
+        '''
         with torch.no_grad():
             output3 = model(imgL,imgR)
 
         pred_disp = output3.data.cpu()
+
+
 
         ## Edit to compute 3-px error
         true_disp = copy.deepcopy(disp_true)
@@ -151,11 +196,13 @@ def test(imgL,imgR,disp_true):
         pd = pred_disp.mul(mask_0)
         d_px = torch.abs(td-pd)
         correct = (d_px>3)
-        thres3 = torch.mean(correct.float())
+        thres3 = float(torch.sum(correct))/
+        epe = torch.mean(d_px.float())
         # print('thres3: ', thres3)
         torch.cuda.empty_cache()
         ## Done edit
         return thres3
+        '''
 
         # #computing 3-px error#
         # true_disp = copy.deepcopy(disp_true)
@@ -188,14 +235,16 @@ def main():
     max_epo=0
     start_full_time = time.time()
     total_test_loss = 0
+    total_epe = 0
     print('Length test img loader', len(TestImgLoader))
 
     for batch_idx, (imgL, imgR, disp_L) in enumerate(TestImgLoader):
-        test_loss = test(imgL,imgR, disp_L)
-        print('Iter %d 3-px error in val = %.3f' %(batch_idx, test_loss*100))
+        test_loss, epe = test(imgL,imgR, disp_L)
+        print('Iter %d 3-px error in val = %.3f; EPE in val = %.3f' %(batch_idx, test_loss*100, epe))
         total_test_loss += test_loss
+        total_epe += epe
 
-    print('epoch total 3-px error in val = %.3f' %(total_test_loss/len(TestImgLoader)*100))
+    print('epoch total 3-px error in val = %.3f; Total epe in val = %.3f' %(total_test_loss/len(TestImgLoader)*100, total_epe/len(TestImgLoader)))
 
     '''
     for epoch in range(19, args.epochs+1):
