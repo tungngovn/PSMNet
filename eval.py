@@ -169,7 +169,7 @@ def test(imgL,imgR,disp_true):
         error = torch.mean(torch.abs(disp[mask] - target[mask])) 
 
         # valid_iteration += 1
-        epoch_error += error.item()              
+        # epoch_error += error.item()              
         #computing 3-px error#                
         pred_disp = disp.cpu().detach() 
         true_disp = target.cpu().detach()
@@ -185,7 +185,7 @@ def test(imgL,imgR,disp_true):
         # sys.stdout.flush()
 
     # print("===> Test: Avg. Error: ({:.4f} {:.4f})".format(epoch_error/valid_iteration, three_px_acc_all/valid_iteration))
-    return three_px_acc, error
+    return three_px_acc, error.item()
     ## End copy
 
     ## Custom evaluation code
